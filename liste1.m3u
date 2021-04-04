@@ -1,0 +1,709 @@
+#EXTM3U tvg-shift=0
+
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tf1hd.jpg group-title="France TNT", TF1
+http://85.203.33.88/live/0303182E188/8IBiiR241/2204.ts
+
+#EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france2.jpg group-title="France TNT", France 2
+http://85.203.33.88/live/0303182E188/8IBiiR241/2200.ts
+
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france3.jpg group-title="France TNT", France 3
+http://85.203.33.88/live/0303182E188/8IBiiR241/2201.ts
+
+#EXTINF:-1 tvg-id="C78.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france4.jpg group-title="France TNT", France 4 
+http://85.203.33.88/live/0303182E188/8IBiiR241/2202.ts
+
+#EXTINF:-1 tvg-id="C47.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france5.jpg group-title="France TNT", France 5
+http://85.203.33.88/live/0303182E188/8IBiiR241/2203.ts
+
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/arte.jpg group-title="France TNT", Arte
+http://85.203.33.88/live/0303182E188/8IBiiR241/3726.ts
+
+#EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/m6.jpg group-title="France TNT", M6
+http://85.203.33.88/live/0303182E188/8IBiiR241/3758.ts
+
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/c8.jpg group-title="France TNT", C8
+http://85.203.33.88/live/0303182E188/8IBiiR241/2227.ts
+
+#EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/w9.jpg group-title="France TNT", W9
+http://85.203.33.88/live/0303182E188/8IBiiR241/3770.ts
+
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tfxfr.jpg group-title="France TNT", TFX
+http://85.203.33.88/live/0303182E188/8IBiiR241/23351.ts
+
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tmc.jpg group-title="France TNT", TMC
+http://85.203.33.88/live/0303182E188/8IBiiR241/13164.ts
+
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/f1seriesfilmsfr.jpg group-title="France TNT", TF1 Séries Films
+http://85.203.33.88/live/0303182E188/8IBiiR241/23326.ts
+
+#EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/nrj12.jpg group-title="France TNT", NRJ 12
+http://85.203.33.88/live/0303182E188/8IBiiR241/3760.ts
+
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/6ter.jpg group-title="France TNT", 6ter
+http://85.203.33.88/live/0303182E188/8IBiiR241/3723.ts
+
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cherie25.jpg group-title="France TNT", Chérie 25
+http://85.203.33.88/live/0303182E188/8IBiiR241/13158.ts
+
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcstoryfr.jpg group-title="Sport", RMC Story
+http://85.203.33.88/live/0303182E188/8IBiiR241/3750.ts
+
+#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcdecouverte.jpg group-title="Sport", RMC Découverte
+http://85.203.33.88/live/0303182E188/8IBiiR241/13157.ts
+
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/lequipe21.jpg group-title="France TNT", L’Equipe 
+http://85.203.33.88/live/0303182E188/8IBiiR241/4468.ts
+
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/bfmtv.jpg group-title="France TNT", BFM
+http://85.203.33.88/live/0303182E188/8IBiiR241/3607.ts
+
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cnews.jpg group-title="France TNT", CNews
+http://85.203.33.88/live/0303182E188/8IBiiR241/13154.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/franceinfo.jpg group-title="France TNT", Franceinfo
+http://85.203.33.88/live/0303182E188/8IBiiR241/21900.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france24.jpg group-title="France TNT", France 24 
+http://85.203.33.88/live/0303182E188/8IBiiR241/3753.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france24.jpg group-title="France TNT", France 24 AR
+http://85.203.33.88/live/0303182E188/8IBiiR241/6287.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/euronews.jpg group-title="France TNT", Euronews FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/3751.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/gulli.jpg group-title="Jeunesse", Gulli
+http://85.203.33.88/live/0303182E188/8IBiiR241/4465.ts
+
+#EXTINF:-1 tvg-id="C32.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalj.jpg group-title="Jeunesse", Canal J
+http://85.203.33.88/live/0303182E188/8IBiiR241/2239.ts
+
+#EXTINF:-1 tvg-id="C924.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/boinghdfrance.jpg group-title="Jeunesse", Boing
+http://85.203.33.88/live/0303182E188/8IBiiR241/13176.ts
+
+#EXTINF:-1 tvg-id="C321.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/boomerang.jpg group-title="Jeunesse", Boomerang
+http://85.203.33.88/live/0303182E188/8IBiiR241/2240.ts
+
+#EXTINF:-1 tvg-id="C36.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cartoonnetwork.jpg group-title="Jeunesse", Cartoon Network HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2246.ts
+
+#EXTINF:-1 tvg-id="C888.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/nickjr.jpg group-title="Jeunesse", Nickelodeon Jr FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/13173.ts
+
+#EXTINF:-1 tvg-id="C1746.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/nickelodeon4teen.jpg group-title="Jeunesse", Nickelodeon 4Teen FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/15638.ts
+
+#EXTINF:-1 tvg-id="C473.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/nickelodeonhd.jpg group-title="Jeunesse", Nickelodeon FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/13172.ts
+
+#EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/mangas.jpg group-title="Jeunesse", Mangas
+http://85.203.33.88/live/0303182E188/8IBiiR241/2245.ts
+
+#EXTINF:-1 tvg-id="C197.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/teletoonplus.jpg group-title="Jeunesse", TéléToon+
+http://85.203.33.88/live/0303182E188/8IBiiR241/4466.ts
+
+#EXTINF:-1 tvg-id="C2040.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/toonami.jpg group-title="Jeunesse", Toonami
+http://85.203.33.88/live/0303182E188/8IBiiR241/18104.ts
+
+#EXTINF:-1 tvg-id="C87.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/gameone.jpg group-title="Jeunesse", Game One HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/7574.ts
+
+#EXTINF:-1 tvg-id="C1585.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/jonefr.jpg group-title="Jeunesse", J-One FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/21530.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/13emerue.jpg group-title="CanalSat", 13ème RUE HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2250.ts
+
+#EXTINF:-1 tvg-id="C5.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ab1.jpg group-title="CanalSat", AB1
+http://85.203.33.88/live/0303182E188/8IBiiR241/3731.ts
+
+#EXTINF:-1 tvg-id="C5.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ab1.jpg group-title="CanalSat", AB1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13144.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/action.jpg group-title="CanalSat", Action HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/4507.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/animaux.jpg group-title="Science",  Animaux
+http://85.203.33.88/live/0303182E188/8IBiiR241/4469.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/animaux.jpg group-title="Science", Animaux HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13119.ts
+
+#EXTINF:-1 tvg-id="C54.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/comedieplus.jpg group-title="CanalSat", Comedie+ HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13146.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/comedycenthd.jpg group-title="CanalSat", Comedy Central
+http://85.203.33.88/live/0303182E188/8IBiiR241/52318.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cstar.jpg group-title="France TNT", CStar HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/4459.ts
+
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplus.jpg group-title="Cinéma", Canal+ HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2206.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="C33.api.telerama.fr" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalpluscinema.jpg group-title="Cinéma", Canal+ Cinéma FHD 
+http://85.203.33.88/live/0303182E188/8IBiiR241/15283.ts
+
+#EXTINF:-1 tvg-id="C30.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplusdecale.jpg group-title="Cinéma", Canal+ Décalé
+http://85.203.33.88/live/0303182E188/8IBiiR241/3733.ts
+
+#EXTINF:-1 tvg-id="C30.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplusdecale.jpg group-title="Cinéma", Canal+ Décalé HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13134.ts
+
+#EXTINF:-1 tvg-id="C657.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplusfamily.jpg group-title="Cinéma", Canal+ Family
+http://85.203.33.88/live/0303182E188/8IBiiR241/3735.ts
+
+#EXTINF:-1 tvg-id="C657.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplusfamily.jpg group-title="Cinéma", Canal+ Family HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13132.ts
+
+#EXTINF:-1 tvg-id="C35.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplussport.jpg group-title="Sport", Canal+ Sport FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2210.ts
+
+#EXTINF:-1 tvg-id="C35.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplussport.jpg group-title="Sport", Canal+ Sport HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13149.ts
+
+#EXTINF:-1 tvg-id="C1563.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplusseries.jpg group-title="Cinéma", Canal+ Séries HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2211.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplay.jpg group-title="Cinéma", CanalPlay 1 HD 
+http://85.203.33.88/live/0303182E188/8IBiiR241/6448.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplay.jpg group-title="Cinéma", CanalPlay 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/6447.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplay.jpg group-title="Cinéma", CanalPlay 3 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/6446.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplay.jpg group-title="Cinéma", CanalPlay 4 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/6445.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/canalplay.jpg group-title="Cinéma", CanalPlay 5 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/6444.ts
+
+#EXTINF:-1 tvg-id="C287.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cineplusclassic.jpg group-title="Cinéma", Cine+ Classic HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2217.ts
+
+#EXTINF:-1 tvg-id="C285.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cineplusclub.jpg group-title="Cinéma", Cine+ Club HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/16830.ts
+
+#EXTINF:-1 tvg-id="C401.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cineplusfamiz.jpg group-title="Cinéma", Cine+ Famiz HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2215.ts
+
+#EXTINF:-1 tvg-id="C284.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cineplusfrisson.jpg group-title="Cinéma", Cine+ Frisson HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2212.ts
+
+#EXTINF:-1 tvg-id="C282.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cinepluspremier.jpg group-title="Cinéma", Cine+ Premier HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2213.ts
+
+#EXTINF:-1 tvg-id="C283.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/cineplusemotion.jpg group-title="Cinéma", Cine+ Emotion HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2214.ts
+
+#EXTINF:-1 tvg-id="C2037.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/crimedistrict.jpg group-title="CanalSat", Crime District FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/20265.ts
+
+#EXTINF:-1 tvg-id="C400.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/discoverychannelhd.jpg group-title="Science", Discovery Channel HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/7579.ts
+
+#EXTINF:-1 tvg-id="C1374.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/discoverysciencehd.jpg group-title="Science", Discovery Science HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/7578.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg group-title="Science", Discovery Family HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/23439.ts
+
+#EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/disneychannel.jpg group-title="Jeunesse", Disney Channel
+http://85.203.33.88/live/0303182E188/8IBiiR241/2241.ts
+
+#EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/disneychannelhd.jpg group-title="Jeunesse", Disney Channel HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13126.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/disneycinema.jpg group-title="Jeunesse", Disney Cinema HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13169.ts
+
+#EXTINF:-1 tvg-id="C300.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/disneyjnrhd.jpg group-title="Jeuensse", Disney Junior HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13170.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/disneyxd.jpg group-title="Jeunesse", DisneyXD HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13171.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/disneyplus.jpg group-title="Jeunesse", Disney+ HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/73730.ts
+
+#EXTINF:-1 tvg-id="C78.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/eurosport1hd.jpg group-title="Sport", Eurosport 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2013.ts
+
+#EXTINF:-1 tvg-id="C439.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/eurosport2hd.jpg group-title="Sport", Eurosport 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/7572.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france2hd.jpg group-title="France TNT", France 2 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14907.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france4hd.jpg group-title="France TNT", France 4 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/20166.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/france24.jpg group-title="France TNT", France 24 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/17302.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/histoire.jpg group-title="Science", Histoire HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13166.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/infosportplus.jpg group-title="Sport", Infosport+
+http://85.203.33.88/live/0303182E188/8IBiiR241/7571.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg group-title="CanalSat", Investigation Discovery 
+http://85.203.33.88/live/0303182E188/8IBiiR241/20266.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/m6.jpg group-title="France TNT", M6 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/3758.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/mcm.jpg group-title="CanalSat", MCM
+http://85.203.33.88/live/0303182E188/8IBiiR241/18106.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/mtvhd.jpg group-title="CanalSat", MTV FR HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/21902.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/mycuisinefr.jpg group-title="CanalSat", My Cuisine FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18255.ts
+
+#EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/nationalgeo.jpg group-title="Science", National Geographic
+http://85.203.33.88/live/0303182E188/8IBiiR241/4467.ts
+
+#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/natgeowildhd.jpg group-title="Science", National Geographic Wild
+http://85.203.33.88/live/0303182E188/8IBiiR241/3606.ts
+
+#EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocschoc.jpg group-title="Cinéma", OCS Choc HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/7576.ts
+
+#EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocscity.jpg group-title="Cinéma", OCS City HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/3763.ts
+
+#EXTINF:-1 tvg-id="C734.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgeant.jpg group-title="Cinéma", OCS Geants HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/3762.ts
+
+#EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsmax.jpg group-title="Cinéma", OCS Max HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/3761.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 1
+http://85.203.33.88/live/0303182E188/8IBiiR241/18107.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 2
+http://85.203.33.88/live/0303182E188/8IBiiR241/18108.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 3
+http://85.203.33.88/live/0303182E188/8IBiiR241/18109.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 4
+http://85.203.33.88/live/0303182E188/8IBiiR241/18110.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 5
+http://85.203.33.88/live/0303182E188/8IBiiR241/18111.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 6
+http://85.203.33.88/live/0303182E188/8IBiiR241/18112.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 7
+http://85.203.33.88/live/0303182E188/8IBiiR241/18113.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ocsgofr.jpg group-title="Cinéma", OCS Go Cine 8
+http://85.203.33.88/live/0303182E188/8IBiiR241/18114.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/piwiplus.jpg group-title="France TNT", Piwi+ HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13174.ts
+
+#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/parispremiere.jpg group-title="France TNT", Paris Première HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2224.ts
+
+#EXTINF:-1 tvg-id="C402.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/planeteplusaande.jpg group-title="France TNT", Planète+ Aventure & Expérience HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13124.ts
+
+#EXTINF:-1 tvg-id="C402.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/planeteplusaande.jpg group-title="France TNT", Planète+ Aventure & Expérience
+http://85.203.33.88/live/0303182E188/8IBiiR241/2248.ts
+
+#EXTINF:-1 tvg-id="C662.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/planeteplusci.jpg group-title="France TNT", Planète+ Crime Investigation FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/15639.ts
+
+#EXTINF:-1 tvg-id="C662.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/planeteplusci.jpg group-title="France TNT", Planète+ Crime Investigation HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2249.ts
+
+#EXTINF:-1 tvg-id="C147.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/planeteplushd.jpg group-title="France TNT", Planète+ FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2247.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcstoryfr.jpg group-title="France TNT", RMC Story FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13141.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsport1fr.jpg group-title="Sport", RMC Sport 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13182.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsport2fr.jpg group-title="Sport", RMC Sport 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2251.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsport3fr.jpg group-title="Sport", RMC Sport 3 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/21522.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsport4fr.jpg group-title="Sport", RMC Sport 4 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13148.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rtl9.jpg group-title="Sport", RTL9 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/3771.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/scienceetvie.jpg group-title="France TNT", Science & Vie HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13115.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/syfyhd.jpg group-title="France TNT", Syfy HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2228.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/serieclubhd.jpg group-title="France TNT", Série Club HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2221.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tf1hd.jpg group-title="France TNT", TF1 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14906.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tiji.jpg group-title="France TNT", TIJI HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2237.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tvbreizh.jpg group-title="France TNT", TV Breizh
+http://85.203.33.88/live/0303182E188/8IBiiR241/2244.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tvbreizh.jpg group-title="France TNT", TV Breizh HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13125.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/tv5mondeeurope.jpg group-title="France TNT", TV5Monde
+http://85.203.33.88/live/0303182E188/8IBiiR241/3769.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/toutelhistoire.jpg group-title="CanalSat", Toute l'histoire
+http://85.203.33.88/live/0303182E188/8IBiiR241/7798.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/trek.jpg group-title="Science", Trek HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/13185.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/teva.jpg group-title="CanalSat", Téva FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/2225.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/ushuaiatv.jpg group-title="Science", Ushuaïa HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/4491.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportnewsfr.jpg group-title="Sport", RMC Sport News
+http://85.203.33.88/live/0303182E188/8IBiiR241/18252.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsport1fr.jpg group-title="Sport", RMC Sport 1 4K 
+http://85.203.33.88/live/0303182E188/8IBiiR241/26277.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Access 1 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28583.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Access 2 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28584.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Access 3 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28585.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 5 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28586.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 6 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28587.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 7 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28588.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 8 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28589.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 9 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28590.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 10 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28591.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 11 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28592.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 12 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28593.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 13 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28594.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 14 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28595.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/rmcsportfr.jpg group-title="Sport", RMC Sport Live 15 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/28596.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52122.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52123.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 3 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52124.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 4 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52125.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 5 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52126.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 6 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52127.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 7 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52128.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot Stadium 8 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52129.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52130.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/telefoot12.jpg group-title="Sport", Telefoot UHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/52461.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/multisports.jpg group-title="Sport", MultiSports 1
+http://85.203.33.88/live/0303182E188/8IBiiR241/72661.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/multisports.jpg group-title="Sport", MultiSports 2
+http://85.203.33.88/live/0303182E188/8IBiiR241/72662.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/multisports.jpg group-title="Sport", MultiSports 3
+http://85.203.33.88/live/0303182E188/8IBiiR241/72663.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/multisports.jpg group-title="Sport", MultiSports 4
+http://85.203.33.88/live/0303182E188/8IBiiR241/72664.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/multisports.jpg group-title="Sport", MultiSports 5
+http://85.203.33.88/live/0303182E188/8IBiiR241/72665.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/multisports.jpg group-title="Sport", MultiSports 6
+http://85.203.33.88/live/0303182E188/8IBiiR241/72666.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport1hd.jpg group-title="beIN Media Group", beIN SPORTS Premium 1 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/75533.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport2hd.jpg group-title="beIN Media Group", beIN SPORTS Premium 2 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/75534.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport3hd.jpg group-title="beIN Media Group", beIN SPORTS Premium 3 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/75535.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports1.jpg group-title="beIN Media Group", beIN SPORTS 1 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24697.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport1hd.jpg group-title="beIN Media Group", beIN SPORTS 1 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22157.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport1hd.jpg group-title="beIN Media Group", beIN SPORTS 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14980.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport1hd.jpg group-title="beIN Media Group", beIN SPORT 1 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14981.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports2.jpg group-title="beIN Media Group", beIN SPORTS 2 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24696.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport2hd.jpg group-title="beIN Media Group", beIN SPORTS 2 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22158.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports2hd.jpg group-title="beIN Media Group", beIN SPORTS 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14982.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports2hd.jpg group-title="beIN Media Group", beIN SPORTS 2 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14983.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports3.jpg group-title="beIN Media Group", beIN SPORTS 3 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24695.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports3.jpg group-title="beIN Media Group", beIN SPORTS 3 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22159.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports3hd.jpg group-title="beIN Media Group", beIN SPORTS 3 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14984.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports3hd.jpg group-title="beIN Media Group", beIN SPORTS 3 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14985.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport4hd.jpg group-title="beIN Media Group", beIN SPORTS 4 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24694.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport4hd.jpg group-title="beIN Media Group", beIN SPORTS 4 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22160.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport4hd.jpg group-title="beIN Media Group", beIN SPORTS 4 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14986.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport4hd.jpg group-title="beIN Media Group", beIN SPORTS 4 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14987.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport5.jpg group-title="beIN Media Group", beIN SPORTS 5 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24693.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport5.jpg group-title="beIN Media Group", beIN SPORTS 5 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22161.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport5.jpg group-title="beIN Media Group", beIN SPORTS 5 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14988.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport5.jpg group-title="beIN Media Group", beIN SPORTS 5 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14989.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport6.jpg group-title="beIN Media Group", beIN SPORTS 6 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24692.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport6.jpg group-title="beIN Media Group", beIN SPORTS 6 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22162.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport6.jpg group-title="beIN Media Group", beIN SPORTS 6 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14990.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport6.jpg group-title="beIN Media Group", beIN SPORTS 6 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14991.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport7.jpg group-title="beIN Media Group", beIN SPORTS 7 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24691.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport7.jpg group-title="beIN Media Group", beIN SPORTS 7 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/22163.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport7.jpg group-title="beIN Media Group", beIN SPORTS 7 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14992.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport7.jpg group-title="beIN Media Group", beIN SPORTS 7 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14993.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports8.jpg group-title="beIN Media Group", beIN SPORTS 8 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports8.jpg group-title="beIN Media Group", beIN SPORTS 8 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18284.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports8.jpg group-title="beIN Media Group", beIN SPORTS 8 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14994.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports8.jpg group-title="beIN Media Group", beIN SPORTS 8 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14995.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport9.jpg group-title="beIN Media Group", beIN SPORTS 9 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24689.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport9.jpg group-title="beIN Media Group", beIN SPORTS 9 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/21515.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport9.jpg group-title="beIN Media Group", beIN SPORTS 9 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14996.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport9.jpg group-title="beIN Media Group", beIN SPORTS 9 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14997.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports10.jpg group-title="beIN Media Group", beIN SPORTS 10 4K
+http://85.203.33.88/live/0303182E188/8IBiiR241/24688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport10.jpg group-title="beIN Media Group", beIN SPORTS 10 FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/21516.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport10.jpg group-title="beIN Media Group", beIN SPORTS 10 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14998.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport10.jpg group-title="beIN Media Group", beIN SPORTS 10 SD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14999.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport11.jpg group-title="beIN Media Group", beIN SPORTS 11 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/15000.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport12.jpg group-title="beIN Media Group", beIN SPORTS 12 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/15001.ts
+
+#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport1hd.jpg group-title="beIN Media Group", beIN SPORTS 1 FR HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14977.ts
+
+#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport1hd.jpg group-title="beIN Media Group", beIN SPORTS 1 FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/5522.ts
+
+#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports2hd.jpg group-title="beIN Media Group", beIN SPORTS 2 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14978.ts
+
+#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports2hd.jpg group-title="beIN Media Group", beIN SPORTS 2 FR HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/15637.ts
+
+#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports3hd.jpg group-title="beIN Media Group", beIN SPORTS 3 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/4477.ts
+
+#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports3hd.jpg group-title="beIN Media Group", beIN SPORTS 3 FR HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/14979.ts
+
+#EXTINF:-1 tvg-id="C1336.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax4.jpg group-title="beIN Media Group", beIN SPORTS MAX 4 FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/18218.ts
+
+#EXTINF:-1 tvg-id="C1337.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax5.jpg group-title="beIN Media Group", beIN SPORTS MAX 5 FR
+http://85.203.33.88/live/0303182E188/8IBiiR241/18219.ts
+
+#EXTINF:-1 tvg-id="C1338.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax6.jpg group-title="beIN Media Group", beIN SPORTS MAX 6 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18220.ts
+
+#EXTINF:-1 tvg-id="C1339.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax7.jpg group-title="beIN Media Group", beIN SPORTS MAX 7 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18221.ts
+
+#EXTINF:-1 tvg-id="C1340.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax8.jpg group-title="beIN Media Group", beIN SPORTS MAX 8 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18222.ts
+
+#EXTINF:-1 tvg-id="C1341.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax9.jpg group-title="beIN Media Group", beIN SPORTS MAX 9 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18223.ts
+
+#EXTINF:-1 tvg-id="C1342.api.telerama.fr" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmax10.jpg group-title="beIN Media Group", beIN SPORTS MAX 10 FR FHD
+http://85.203.33.88/live/0303182E188/8IBiiR241/18224.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmovies1.jpg group-title="beIN Media Group", beIN MOVIES 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/12855.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmovies2.jpg group-title="beIN Media Group", beIN MOVIES 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/12854.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmovies3.jpg group-title="beIN Media Group", beIN MOVIES 3 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/12853.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinmovies4.jpg group-title="beIN Media Group", beIN MOVIES 4 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/12852.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/baraem.jpg group-title="beIN Media Group", beIN BARAEM
+http://85.203.33.88/live/0303182E188/8IBiiR241/16445.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beindrama1.jpg group-title="beIN Media Group", beIN DRAMA 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/19102.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/amc.jpg group-title="beIN Media Group", beIN AMC
+http://85.203.33.88/live/0303182E188/8IBiiR241/19156.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/animalplanet.jpg group-title="beIN Media Group", beIN Animal Planet 
+http://85.203.33.88/live/0303182E188/8IBiiR241/19157.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinbejunior.jpg group-title="beIN Media Group", beIN BE JUNIOR
+http://85.203.33.88/live/0303182E188/8IBiiR241/19162.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/dmax.jpg group-title="beIN Media Group", beIN DMAX
+http://85.203.33.88/live/0303182E188/8IBiiR241/19154.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beindreamworksch.jpg group-title="beIN Media Group", beIN DreamWorks
+http://85.203.33.88/live/0303182E188/8IBiiR241/19159.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/fatafeatarb.jpg group-title="beIN Media Group", beIN Fatafeat
+http://85.203.33.88/live/0303182E188/8IBiiR241/13713.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/foxmovies.jpg group-title="beIN Media Group", beIN FOX Movies
+http://85.203.33.88/live/0303182E188/8IBiiR241/19160.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinseries.jpg group-title="beIN Media Group", beIN SERIES 1 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/19151.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinseries.jpg group-title="beIN Media Group", beIN SERIES 2 HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/15765.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/foxlifearb.jpg group-title="beIN Media Group", beIN FOX Life HD
+http://85.203.33.88/live/0303182E188/8IBiiR241/26632.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsport4hd.jpg group-title="beIN Media Group", beIN SPORTS 4 US
+http://85.203.33.88/live/0303182E188/8IBiiR241/9013.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo=https://picon-13398.kxcdn.com/beinsports.jpg group-title="beIN Media Group", beIN SPORTS US
+http://85.203.33.88/live/0303182E188/8IBiiR241/15002.ts

@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/87.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , 2
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" ,France 2
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/137.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , 3
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 3
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , 4
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 4
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , 5
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 5
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
@@ -235,13 +235,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6146/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6003/index.m3u8
 #EXTINF:0 group-title="Group 1" tvg-id=\"6167\" tvg-logo=\"http://epg.one/img/6167.png\" tvg-rec=\"0\",Ciné+ Classic
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/17039/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3093\" tvg-logo=\"http://epg.one/img/3093.png\" tvg-rec=\"3\", 2
+#EXTINF:0 group-title="Group 1" tvg-id=\"3093\" tvg-logo=\"http://epg.one/img/3093.png\" tvg-rec=\"3\",France 2
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6147/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3094\" tvg-logo=\"http://epg.one/img/3094.png\" tvg-rec=\"3\", 3
+#EXTINF:0 group-title="Group 1" tvg-id=\"3094\" tvg-logo=\"http://epg.one/img/3094.png\" tvg-rec=\"3\",France 3
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6148/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3095\" tvg-logo=\"http://epg.one/img/3095.png\" tvg-rec=\"3\", 4
+#EXTINF:0 group-title="Group 1" tvg-id=\"3095\" tvg-logo=\"http://epg.one/img/3095.png\" tvg-rec=\"3\",France 4
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6149/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3096\" tvg-logo=\"http://epg.one/img/3096.png\" tvg-rec=\"3\", 5
+#EXTINF:0 group-title="Group 1" tvg-id=\"3096\" tvg-logo=\"http://epg.one/img/3096.png\" tvg-rec=\"3\",France 5
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6150/index.m3u8
 #EXTINF:0 group-title="Group 1" tvg-id=\"2884\" tvg-logo=\"http://epg.one/img/2884.png\" tvg-rec=\"3\",beIN Sports 1
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/2499/index.m3u8
@@ -317,13 +317,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6007/index.m3u8
 #EXTINF:0 group-title="Group 2",Canal+ Series
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6008/index.m3u8
-#EXTINF:0 group-title="Group 2", 2
+#EXTINF:0 group-title="Group 2",France 2
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6147/index.m3u8
-#EXTINF:0 group-title="Group 2", 3
+#EXTINF:0 group-title="Group 2",France 3
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6148/index.m3u8
-#EXTINF:0 group-title="Group 2", 4
+#EXTINF:0 group-title="Group 2",France 4
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6149/index.m3u8
-#EXTINF:0 group-title="Group 2", 5
+#EXTINF:0 group-title="Group 2",France 5
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6150/index.m3u8
 #EXTINF:0 group-title="Group 2",Disney
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15185/index.m3u8
@@ -349,13 +349,13 @@ http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2499/index.m3u8
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6003/index.m3u8
 #EXTINF:0 group-title="Group 3" tvg-rec=\"0\",Ciné+ Classic
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17039/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 2
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 2
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6147/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 3
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 3
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6148/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 4
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 4
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6149/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 5
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 5
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6150/index.m3u8
 #EXTINF:0 group-title="Group 3" tvg-rec=\"3\",beIN Sports 2
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2500/index.m3u8
@@ -421,8 +421,6 @@ http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2545/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2546/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"2931\\\" tvg-logo=\\\"http://epg.it999.ru/img/2931.png\\\" tvg-rec=\\\"3\\\",RMC Sport 3
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2547/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"2127\\\" tvg-logo=\\\"http://epg.it999.ru/img/2127.png\\\" tvg-rec=\\\"3\\\", 24 En
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/947/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"2981\\\" tvg-logo=\\\"http://epg.it999.ru/img/2981.png\\\" tvg-rec=\\\"3\\\",Ciné+ Frisson
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6003/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"3088\\\" tvg-logo=\\\"http://epg.it999.ru/img/3088.png\\\" tvg-rec=\\\"3\\\",Canal+ Cinéma(s)
@@ -435,13 +433,13 @@ http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6006/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6007/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"2984\\\" tvg-logo=\\\"http://epg.it999.ru/img/2984.png\\\" tvg-rec=\\\"3\\\",Canal+ Series
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6008/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3093\\\" tvg-logo=\\\"http://epg.it999.ru/img/3093.png\\\" tvg-rec=\\\"3\\\", 2
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3093\\\" tvg-logo=\\\"http://epg.it999.ru/img/3093.png\\\" tvg-rec=\\\"3\\\",France 2
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6147/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3094\\\" tvg-logo=\\\"http://epg.it999.ru/img/3094.png\\\" tvg-rec=\\\"3\\\", 3
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3094\\\" tvg-logo=\\\"http://epg.it999.ru/img/3094.png\\\" tvg-rec=\\\"3\\\",France 3
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6148/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3095\\\" tvg-logo=\\\"http://epg.it999.ru/img/3095.png\\\" tvg-rec=\\\"3\\\", 4
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3095\\\" tvg-logo=\\\"http://epg.it999.ru/img/3095.png\\\" tvg-rec=\\\"3\\\",France 4
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6149/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3096\\\" tvg-logo=\\\"http://epg.it999.ru/img/3096.png\\\" tvg-rec=\\\"3\\\", 5
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3096\\\" tvg-logo=\\\"http://epg.it999.ru/img/3096.png\\\" tvg-rec=\\\"3\\\",France 5
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6150/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"5644\\\" tvg-logo=\\\"http://epg.it999.ru/img/5644.png\\\" tvg-rec=\\\"0\\\",Disney
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/15185/index.m3u8

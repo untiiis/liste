@@ -42,7 +42,7 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5v0.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" tvg-chno="3",Chérie 25
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/25.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="anal",20. TF1 Séries Films
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="Canal",20. TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="58",RTL9
@@ -162,7 +162,7 @@ https://jmp2.uk/sam-FRBB49000033R.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="157",Game One
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/104.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="|Fransat|" tvg-chno="62",Mangas
+#EXTINF:-1 tvg-logo="" group-title="Canal" tvg-chno="62",Mangas
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/97.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" tvg-chno="130",Canal+ Kids

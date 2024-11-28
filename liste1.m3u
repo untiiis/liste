@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/87.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" ,France 2
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , 2
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/137.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 3
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , 3
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 4
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , 4
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 5
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , 5
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
@@ -235,13 +235,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6146/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6003/index.m3u8
 #EXTINF:0 group-title="Group 1" tvg-id=\"6167\" tvg-logo=\"http://epg.one/img/6167.png\" tvg-rec=\"0\",Ciné+ Classic
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/17039/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3093\" tvg-logo=\"http://epg.one/img/3093.png\" tvg-rec=\"3\",France 2
+#EXTINF:0 group-title="Group 1" tvg-id=\"3093\" tvg-logo=\"http://epg.one/img/3093.png\" tvg-rec=\"3\", 2
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6147/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3094\" tvg-logo=\"http://epg.one/img/3094.png\" tvg-rec=\"3\",France 3
+#EXTINF:0 group-title="Group 1" tvg-id=\"3094\" tvg-logo=\"http://epg.one/img/3094.png\" tvg-rec=\"3\", 3
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6148/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3095\" tvg-logo=\"http://epg.one/img/3095.png\" tvg-rec=\"3\",France 4
+#EXTINF:0 group-title="Group 1" tvg-id=\"3095\" tvg-logo=\"http://epg.one/img/3095.png\" tvg-rec=\"3\", 4
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6149/index.m3u8
-#EXTINF:0 group-title="Group 1" tvg-id=\"3096\" tvg-logo=\"http://epg.one/img/3096.png\" tvg-rec=\"3\",France 5
+#EXTINF:0 group-title="Group 1" tvg-id=\"3096\" tvg-logo=\"http://epg.one/img/3096.png\" tvg-rec=\"3\", 5
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/6150/index.m3u8
 #EXTINF:0 group-title="Group 1" tvg-id=\"2884\" tvg-logo=\"http://epg.one/img/2884.png\" tvg-rec=\"3\",beIN Sports 1
 http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/2499/index.m3u8
@@ -317,13 +317,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6007/index.m3u8
 #EXTINF:0 group-title="Group 2",Canal+ Series
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6008/index.m3u8
-#EXTINF:0 group-title="Group 2",France 2
+#EXTINF:0 group-title="Group 2", 2
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6147/index.m3u8
-#EXTINF:0 group-title="Group 2",France 3
+#EXTINF:0 group-title="Group 2", 3
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6148/index.m3u8
-#EXTINF:0 group-title="Group 2",France 4
+#EXTINF:0 group-title="Group 2", 4
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6149/index.m3u8
-#EXTINF:0 group-title="Group 2",France 5
+#EXTINF:0 group-title="Group 2", 5
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6150/index.m3u8
 #EXTINF:0 group-title="Group 2",Disney
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15185/index.m3u8
@@ -349,13 +349,13 @@ http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2499/index.m3u8
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6003/index.m3u8
 #EXTINF:0 group-title="Group 3" tvg-rec=\"0\",Ciné+ Classic
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17039/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 2
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 2
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6147/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 3
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 3
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6148/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 4
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 4
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6149/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-rec=\"3\",France 5
+#EXTINF:0 group-title="Group 3" tvg-rec=\"3\", 5
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6150/index.m3u8
 #EXTINF:0 group-title="Group 3" tvg-rec=\"3\",beIN Sports 2
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2500/index.m3u8
@@ -421,7 +421,7 @@ http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2545/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2546/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"2931\\\" tvg-logo=\\\"http://epg.it999.ru/img/2931.png\\\" tvg-rec=\\\"3\\\",RMC Sport 3
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2547/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"2127\\\" tvg-logo=\\\"http://epg.it999.ru/img/2127.png\\\" tvg-rec=\\\"3\\\",France 24 En
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"2127\\\" tvg-logo=\\\"http://epg.it999.ru/img/2127.png\\\" tvg-rec=\\\"3\\\", 24 En
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/947/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"2981\\\" tvg-logo=\\\"http://epg.it999.ru/img/2981.png\\\" tvg-rec=\\\"3\\\",Ciné+ Frisson
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6003/index.m3u8
@@ -435,13 +435,13 @@ http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6006/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6007/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"2984\\\" tvg-logo=\\\"http://epg.it999.ru/img/2984.png\\\" tvg-rec=\\\"3\\\",Canal+ Series
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6008/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3093\\\" tvg-logo=\\\"http://epg.it999.ru/img/3093.png\\\" tvg-rec=\\\"3\\\",France 2
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3093\\\" tvg-logo=\\\"http://epg.it999.ru/img/3093.png\\\" tvg-rec=\\\"3\\\", 2
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6147/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3094\\\" tvg-logo=\\\"http://epg.it999.ru/img/3094.png\\\" tvg-rec=\\\"3\\\",France 3
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3094\\\" tvg-logo=\\\"http://epg.it999.ru/img/3094.png\\\" tvg-rec=\\\"3\\\", 3
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6148/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3095\\\" tvg-logo=\\\"http://epg.it999.ru/img/3095.png\\\" tvg-rec=\\\"3\\\",France 4
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3095\\\" tvg-logo=\\\"http://epg.it999.ru/img/3095.png\\\" tvg-rec=\\\"3\\\", 4
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6149/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-id=\\\"3096\\\" tvg-logo=\\\"http://epg.it999.ru/img/3096.png\\\" tvg-rec=\\\"3\\\",France 5
+#EXTINF:0 group-title="Group 4" tvg-id=\\\"3096\\\" tvg-logo=\\\"http://epg.it999.ru/img/3096.png\\\" tvg-rec=\\\"3\\\", 5
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6150/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-id=\\\"5644\\\" tvg-logo=\\\"http://epg.it999.ru/img/5644.png\\\" tvg-rec=\\\"0\\\",Disney
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/15185/index.m3u8
@@ -684,6 +684,7 @@ https://live4.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="SSC Sports Flux 5",SSC EXTRA 3
 https://live5.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
 
+
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 1 Premium
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -694,3 +695,164 @@ https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
 https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
 
 
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png" group-title="Abu Dhabi Sports-SSC Sport-DaddyHD",Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png" group-title="Abu Dhabi Sports-SSC Sport-DaddyHD",Abu Dhabi Sports 2 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
+
+
+#EXTINF:-1 tvg-name="beIN Sports 1 MENA" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 1 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2 MENA" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 2 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3 MENA" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 3 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4 MENA" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 4 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 5 MENA" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 5 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 6 MENA" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 6 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 7 MENA" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 7 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 8 MENA" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 8 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 9 MENA" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 9 MENA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 4" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium494/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 5" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium495/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 6" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 6
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium496/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 7" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 7
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium497/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 8" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium498/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 9" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 9
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium499/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MAX 10" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 10
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium500/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Canal+ " tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium121/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport " tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium122/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Foot " tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Foot 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport360" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 2 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 4 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 5 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium614/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium615/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium616/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-4-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium617/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium618/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium619/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium620/index.m3u8
+#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium621/index.m3u8

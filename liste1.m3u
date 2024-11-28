@@ -701,9 +701,13 @@ https://live4.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="SSC Sports",SSC EXTRA 3
 https://live5.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="paratv",paratv
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="paratv",para
 https://raw.githubusercontent.com/paradise-91/paratv/refs/heads/main/playlists/paratv/main/paratv.m3u
 
+#EXTM3U
 https://raw.githubusercontent.com/Sibprod/SibTV/refs/heads/main/list.m3u
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="free"
 https://freenote.biz/raw/vciiafmcmc

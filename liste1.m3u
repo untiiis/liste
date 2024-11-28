@@ -22,7 +22,7 @@ https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/102.m3u8
 http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="Canal" tvg-chno="8",C8
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/92.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="Canal" tvg-chno="9",W9
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/79.m3u8
@@ -31,7 +31,7 @@ https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/79.m3u8
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/78.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="Canal" tvg-chno="11",TFX
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/77.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" tvg-chno="3",NRJ 12
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/12.m3u8

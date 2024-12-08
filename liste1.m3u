@@ -88,7 +88,7 @@ http://178.170.42.126/CANALCINEMA/index.m3u8
 http://178.170.42.126/CANALSERIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
+http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Canal" ,Canal+ Foot
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8

@@ -87,7 +87,7 @@ http://178.170.42.126/CANALCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" ,Canal+ Séries
 http://178.170.42.126/CANALSERIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+  
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
@@ -221,7 +221,7 @@ https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/150.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/204x152/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1137/canal-ouah/CHN43FN/CHN43FN_1137_20240910-d8dJ" group-title="Canal",Canal+ Live 3
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/112.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic Channel
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic  Channel  
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/81.m3u8
 
 

@@ -506,21 +506,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6129/index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 1 Premium
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 2 Premium
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
-
-
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1

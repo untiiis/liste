@@ -9,7 +9,7 @@ https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/137.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 3
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 4
+#EXTINF:-1 tvg-logo="https://fr.wikipedia.org/wiki/France_4#/media/Fichier:France_4_2018.svg" group-title="Canal" ,France 4
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 5
@@ -17,9 +17,6 @@ https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/102.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="Canal" ,C8
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
@@ -87,8 +84,8 @@ http://178.170.42.126/CANALCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" ,Canal+ Séries
 http://178.170.42.126/CANALSERIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+  
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
+http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8

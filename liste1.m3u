@@ -9,7 +9,7 @@ https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/137.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 3
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 
-#EXTINF:-1 tvg-logo="https://fr.wikipedia.org/wiki/France_4#/media/Fichier:France_4_2018.svg" group-title="Canal" ,France 4
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 4
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 5
@@ -17,6 +17,9 @@ https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/102.m3u8
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
+http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="Canal" ,C8
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
@@ -85,7 +88,7 @@ http://178.170.42.126/CANALCINEMA/index.m3u8
 http://178.170.42.126/CANALSERIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-http://178.170.42.126/CANALPLUS/index.m3u8
+https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8
@@ -218,7 +221,7 @@ https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/150.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/204x152/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1137/canal-ouah/CHN43FN/CHN43FN_1137_20240910-d8dJ" group-title="Canal",Canal+ Live 3
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/112.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic  Channel  
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic Channel
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/81.m3u8
 
 
@@ -276,7 +279,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17041/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17039/index.m3u8
 #EXTINF:0 group-title="Group 2",Toute L'histoire
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17040/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" ,beIN Sports MENA 1
+#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" ,beIN Sports MENA 1
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6123/index.m3u8
 #EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" ,beIN Sports MENA 3
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6124/index.m3u8
@@ -347,7 +350,7 @@ http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/15192/index.m3u8
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17040/index.m3u8
 #EXTINF:0 group-title="Group 3" ,Histoire
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17041/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" tvg-rec="0",beIN Sports MENA 1
+#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" tvg-rec="0",beIN Sports MENA 1
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6123/index.m3u8
 #EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" tvg-rec="0",beIN Sports MENA 3
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6124/index.m3u8
@@ -416,7 +419,7 @@ http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17041/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17039/index.m3u8
 #EXTINF:0 group-title="Group 4" ,Toute L'histoire
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17040/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" tvg-rec="0",beIN Sports MENA 1
+#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" tvg-rec="0",beIN Sports MENA 1
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6123/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" tvg-rec="0",beIN Sports MENA 3
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6124/index.m3u8
@@ -486,7 +489,7 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17041/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17039/index.m3u8
 #EXTINF:0 group-title="Group 5" ,Toute L'histoire
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17040/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" tvg-rec="0",beIN Sports MENA 1
+#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" tvg-rec="0",beIN Sports MENA 1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6123/index.m3u8
 #EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" tvg-rec="0",beIN Sports MENA 3
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6124/index.m3u8
@@ -513,7 +516,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
 https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
 
 
-#EXTINF:-1 tvg-name="beIN Sports 1 MENA" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 1 MENA
+#EXTINF:-1 tvg-name="beIN Sports 1 MENA" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 1 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8

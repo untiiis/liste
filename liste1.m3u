@@ -88,7 +88,7 @@ http://178.170.42.126/CANALCINEMA/index.m3u8
 http://178.170.42.126/CANALSERIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
+http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8
@@ -206,24 +206,6 @@ https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 http://178.170.42.126/CNBC/index.m3u8
 
 
-#EXTINF:-1 group-title="Canal",RMC Sport 1
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/33.m3u8
-
-#EXTINF:-1 group-title="Canal",RMC Sport 2
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/40.m3u8
-
-#EXTINF:-1 group-title="Canal",RMC Sport 3
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/42.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="Canal",DAZN 1
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/150.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/204x152/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1137/canal-ouah/CHN43FN/CHN43FN_1137_20240910-d8dJ" group-title="Canal",Canal+ Live 3
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/112.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic Channel
-https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/81.m3u8
-
 
 
 
@@ -279,17 +261,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17041/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17039/index.m3u8
 #EXTINF:0 group-title="Group 2",Toute L'histoire
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17040/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" ,beIN Sports MENA 1
+#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" ,beIN Sports MENA 1
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6123/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" ,beIN Sports MENA 3
+#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" ,beIN Sports MENA 3
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6124/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" ,beIN Sports MENA 4
+#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" ,beIN Sports MENA 4
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6125/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" ,beIN Sports MENA 5
+#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" ,beIN Sports MENA 5
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6126/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" ,beIN Sports MENA 6
+#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" ,beIN Sports MENA 6
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6127/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" ,beIN Sports MENA 7
+#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" ,beIN Sports MENA 7
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6128/index.m3u8
 #EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6129/index.m3u8
@@ -350,17 +332,17 @@ http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/15192/index.m3u8
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17040/index.m3u8
 #EXTINF:0 group-title="Group 3" ,Histoire
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17041/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" tvg-rec="0",beIN Sports MENA 1
+#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" tvg-rec="0",beIN Sports MENA 1
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6123/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" tvg-rec="0",beIN Sports MENA 3
+#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" tvg-rec="0",beIN Sports MENA 3
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6124/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" tvg-rec="0",beIN Sports MENA 4
+#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" tvg-rec="0",beIN Sports MENA 4
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6125/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" tvg-rec="0",beIN Sports MENA 5
+#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" tvg-rec="0",beIN Sports MENA 5
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6126/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" tvg-rec="0",beIN Sports MENA 6
+#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" tvg-rec="0",beIN Sports MENA 6
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6127/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" tvg-rec="0",beIN Sports MENA 7
+#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" tvg-rec="0",beIN Sports MENA 7
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6128/index.m3u8
 #EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
 http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6129/index.m3u8
@@ -419,17 +401,17 @@ http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17041/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17039/index.m3u8
 #EXTINF:0 group-title="Group 4" ,Toute L'histoire
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17040/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" tvg-rec="0",beIN Sports MENA 1
+#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" tvg-rec="0",beIN Sports MENA 1
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6123/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" tvg-rec="0",beIN Sports MENA 3
+#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" tvg-rec="0",beIN Sports MENA 3
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6124/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" tvg-rec="0",beIN Sports MENA 4
+#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" tvg-rec="0",beIN Sports MENA 4
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6125/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" tvg-rec="0",beIN Sports MENA 5
+#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" tvg-rec="0",beIN Sports MENA 5
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6126/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" tvg-rec="0",beIN Sports MENA 6
+#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" tvg-rec="0",beIN Sports MENA 6
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6127/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" tvg-rec="0",beIN Sports MENA 7
+#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" tvg-rec="0",beIN Sports MENA 7
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6128/index.m3u8
 #EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
 http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6129/index.m3u8
@@ -489,17 +471,17 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17041/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17039/index.m3u8
 #EXTINF:0 group-title="Group 5" ,Toute L'histoire
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17040/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" tvg-rec="0",beIN Sports MENA 1
+#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" tvg-rec="0",beIN Sports MENA 1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6123/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" tvg-rec="0",beIN Sports MENA 3
+#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" tvg-rec="0",beIN Sports MENA 3
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6124/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" tvg-rec="0",beIN Sports MENA 4
+#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" tvg-rec="0",beIN Sports MENA 4
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6125/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" tvg-rec="0",beIN Sports MENA 5
+#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" tvg-rec="0",beIN Sports MENA 5
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6126/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" tvg-rec="0",beIN Sports MENA 6
+#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" tvg-rec="0",beIN Sports MENA 6
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6127/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" tvg-rec="0",beIN Sports MENA 7
+#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" tvg-rec="0",beIN Sports MENA 7
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6128/index.m3u8
 #EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6129/index.m3u8
@@ -516,31 +498,31 @@ https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
 https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
 
 
-#EXTINF:-1 tvg-name="beIN Sports 1 MENA" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 1 MENA
+#EXTINF:-1 tvg-name="beIN Sports 1 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 1 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 2 MENA" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 2 MENA
+#EXTINF:-1 tvg-name="beIN Sports 2 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 2 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 3 MENA" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 3 MENA
+#EXTINF:-1 tvg-name="beIN Sports 3 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 3 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 4 MENA" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 4 MENA
+#EXTINF:-1 tvg-name="beIN Sports 4 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 4 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5 MENA" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 5 MENA
+#EXTINF:-1 tvg-name="beIN Sports 5 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 5 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 6 MENA" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 6 MENA
+#EXTINF:-1 tvg-name="beIN Sports 6 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 6 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 7 MENA" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 7 MENA
+#EXTINF:-1 tvg-name="beIN Sports 7 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 7 MENA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8

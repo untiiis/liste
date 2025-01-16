@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/87.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" ,France 2
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , France 2
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/137.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 3
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 3
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/138.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 4
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 4
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,France 5
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 5
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
@@ -100,6 +100,8 @@ http://178.170.42.126/CANALSPORT/index.m3u8
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/58.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png" group-title="Canal" ,beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#KODIPROP:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
 https://iptv.frembed.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png" group-title="Canal" ,beIN Sports 2
@@ -208,444 +210,99 @@ http://178.170.42.126/CNBC/index.m3u8
 
 
 
-
-#EXTINF:0 group-title="Group 2",Paris Première
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6146/index.m3u8
-#EXTINF:0 group-title="Group 2",beIN Sports 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2499/index.m3u8
-#EXTINF:0 group-title="Group 2",beIN Sports 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2500/index.m3u8
-#EXTINF:0 group-title="Group 2",beIN Sports 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2501/index.m3u8
-#EXTINF:0 group-title="Group 2",Canal+ Sport
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2502/index.m3u8
-#EXTINF:0 group-title="Group 2",Infosport+
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2544/index.m3u8
-#EXTINF:0 group-title="Group 2",RMC Sport 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2545/index.m3u8
-#EXTINF:0 group-title="Group 2",RMC Sport 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2546/index.m3u8
-#EXTINF:0 group-title="Group 2",RMC Sport 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2547/index.m3u8
-#EXTINF:0 group-title="Group 2",Ciné+ Frisson
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6003/index.m3u8
-#EXTINF:0 group-title="Group 2",Canal+ Cinéma(s)
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6004/index.m3u8
-#EXTINF:0 group-title="Group 2",Canal+
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6005/index.m3u8
-#EXTINF:0 group-title="Group 2",Canal+ Kids
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6006/index.m3u8
-#EXTINF:0 group-title="Group 2",Canal+
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6007/index.m3u8
-#EXTINF:0 group-title="Group 2",Canal+ Series
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6008/index.m3u8
-#EXTINF:0 group-title="Group 2",France 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6147/index.m3u8
-#EXTINF:0 group-title="Group 2",France 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6148/index.m3u8
-#EXTINF:0 group-title="Group 2",France 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6149/index.m3u8
-#EXTINF:0 group-title="Group 2",France 5
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6150/index.m3u8
-#EXTINF:0 group-title="Group 2",Disney
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15185/index.m3u8
-#EXTINF:0 group-title="Group 2",Chérie 25
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15186/index.m3u8
-#EXTINF:0 group-title="Group 2",TF1 Séries Films
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15187/index.m3u8
-#EXTINF:0 group-title="Group 2",Science & Vie
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15192/index.m3u8
-#EXTINF:0 group-title="Group 2",Histoire
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17041/index.m3u8
-#EXTINF:0 group-title="Group 2",Ciné+ Classic
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17039/index.m3u8
-#EXTINF:0 group-title="Group 2",Toute L'histoire
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/17040/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" ,beIN Sports MENA 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6123/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" ,beIN Sports MENA 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6124/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" ,beIN Sports MENA 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6125/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" ,beIN Sports MENA 5
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6126/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" ,beIN Sports MENA 6
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6127/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" ,beIN Sports MENA 7
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6128/index.m3u8
-#EXTINF:0 group-title="Group 2" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6129/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
+https://xyzdddd.mizhls.ru/lb/premium609/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
+https://xyzdddd.mizhls.ru/lb/premium610/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
-#EXTINF:0 group-title="Group 3" ,Paris Première
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6146/index.m3u8
-#EXTINF:0 group-title="Group 3" ,beIN Sports 1
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2499/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Ciné+ Frisson
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6003/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Ciné+ Classic
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17039/index.m3u8
-#EXTINF:0 group-title="Group 3" ,France 2
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6147/index.m3u8
-#EXTINF:0 group-title="Group 3" ,France 3
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6148/index.m3u8
-#EXTINF:0 group-title="Group 3" ,France 4
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6149/index.m3u8
-#EXTINF:0 group-title="Group 3" ,France 5
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6150/index.m3u8
-#EXTINF:0 group-title="Group 3" ,beIN Sports 2
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2500/index.m3u8
-#EXTINF:0 group-title="Group 3" ,beIN Sports 3
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2501/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Canal+ Sport
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2502/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Infosport+
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2544/index.m3u8
-#EXTINF:0 group-title="Group 3" ,RMC Sport 1
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2545/index.m3u8
-#EXTINF:0 group-title="Group 3" ,RMC Sport 2
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2546/index.m3u8
-#EXTINF:0 group-title="Group 3" ,RMC Sport 3
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/2547/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Canal+ Cinéma(s)
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6004/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Canal+
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6005/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Canal+ Kids
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6006/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Canal+
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6007/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Canal+ Series
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6008/index.m3u8
-#EXTINF:0 group-title="Group 3" ,TF1
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/7262/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Disney
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/15185/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Chérie 25
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/15186/index.m3u8
-#EXTINF:0 group-title="Group 3" ,TF1 Séries Films
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/15187/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Science & Vie
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/15192/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Toute L'histoire
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17040/index.m3u8
-#EXTINF:0 group-title="Group 3" ,Histoire
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/17041/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" tvg-rec="0",beIN Sports MENA 1
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6123/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" tvg-rec="0",beIN Sports MENA 3
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6124/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" tvg-rec="0",beIN Sports MENA 4
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6125/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" tvg-rec="0",beIN Sports MENA 5
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6126/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" tvg-rec="0",beIN Sports MENA 6
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6127/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" tvg-rec="0",beIN Sports MENA 7
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6128/index.m3u8
-#EXTINF:0 group-title="Group 3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
-http://a8drbr3u.rostelekom.xyz/iptv/N5TQQNLAAGWWQ8/6129/index.m3u8
-
-
-
-#EXTINF:0 group-title="Group 4" ,Paris Première
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6146/index.m3u8
-#EXTINF:0 group-title="Group 4" ,beIN Sports 1
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2499/index.m3u8
-#EXTINF:0 group-title="Group 4" ,beIN Sports 2
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2500/index.m3u8
-#EXTINF:0 group-title="Group 4" ,beIN Sports 3
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2501/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Canal+ Sport
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2502/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Infosport+
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2544/index.m3u8
-#EXTINF:0 group-title="Group 4" ,RMC Sport 1
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2545/index.m3u8
-#EXTINF:0 group-title="Group 4" ,RMC Sport 2
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2546/index.m3u8
-#EXTINF:0 group-title="Group 4" ,RMC Sport 3
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/2547/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Ciné+ Frisson
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6003/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Canal+ Cinéma(s)
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6004/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Canal+
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6005/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Canal+ Kids
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6006/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Canal+
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6007/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Canal+ Series
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6008/index.m3u8
-#EXTINF:0 group-title="Group 4" ,France 2
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6147/index.m3u8
-#EXTINF:0 group-title="Group 4" ,France 3
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6148/index.m3u8
-#EXTINF:0 group-title="Group 4" ,France 4
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6149/index.m3u8
-#EXTINF:0 group-title="Group 4" ,France 5
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6150/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Disney
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/15185/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Chérie 25
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/15186/index.m3u8
-#EXTINF:0 group-title="Group 4" ,TF1 Séries Films
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/15187/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Science & Vie
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/15192/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Histoire
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17041/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Ciné+ Classic
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17039/index.m3u8
-#EXTINF:0 group-title="Group 4" ,Toute L'histoire
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/17040/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" tvg-rec="0",beIN Sports MENA 1
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6123/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" tvg-rec="0",beIN Sports MENA 3
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6124/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" tvg-rec="0",beIN Sports MENA 4
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6125/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" tvg-rec="0",beIN Sports MENA 5
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6126/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" tvg-rec="0",beIN Sports MENA 6
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6127/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" tvg-rec="0",beIN Sports MENA 7
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6128/index.m3u8
-#EXTINF:0 group-title="Group 4" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
-http://czrb8vng.ottclub.xyz/iptv/8SDQAWYP9CYVH2/6129/index.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 1
+https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 2
+https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 3
+https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 4
+https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 5
+https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 6
+https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 7
+https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 8
+https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 9
+https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
 
-#EXTINF:0 group-title="Group 5" ,Paris Première
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6146/index.m3u8
-#EXTINF:0 group-title="Group 5" ,beIN Sports 1
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2499/index.m3u8
-#EXTINF:0 group-title="Group 5" ,beIN Sports 2
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2500/index.m3u8
-#EXTINF:0 group-title="Group 5" ,beIN Sports 3
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2501/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Canal+ Sport
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2502/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Infosport+
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2544/index.m3u8
-#EXTINF:0 group-title="Group 5" ,RMC Sport 1
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2545/index.m3u8
-#EXTINF:0 group-title="Group 5" ,RMC Sport 2
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2546/index.m3u8
-#EXTINF:0 group-title="Group 5" ,RMC Sport 3
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2547/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Ciné+ Frisson
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6003/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Canal+ Cinéma(s)
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6004/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Canal+
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6005/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Canal+ Kids
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6006/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Canal+
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6007/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Canal+ Series
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6008/index.m3u8
-#EXTINF:0 group-title="Group 5" ,France 2
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6147/index.m3u8
-#EXTINF:0 group-title="Group 5" ,France 3
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6148/index.m3u8
-#EXTINF:0 group-title="Group 5" ,France 4
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6149/index.m3u8
-#EXTINF:0 group-title="Group 5" ,France 5
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6150/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Disney
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/15185/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Chérie 25
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/15186/index.m3u8
-#EXTINF:0 group-title="Group 5" ,TF1 Séries Films
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/15187/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Science & Vie
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/15192/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Histoire
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17041/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Ciné+ Classic
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17039/index.m3u8
-#EXTINF:0 group-title="Group 5" ,Toute L'histoire
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/17040/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" tvg-rec="0",beIN Sports MENA 1
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6123/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" tvg-rec="0",beIN Sports MENA 3
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6124/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" tvg-rec="0",beIN Sports MENA 4
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6125/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" tvg-rec="0",beIN Sports MENA 5
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6126/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" tvg-rec="0",beIN Sports MENA 6
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6127/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" tvg-rec="0",beIN Sports MENA 7
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6128/index.m3u8
-#EXTINF:0 group-title="Group 5" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" tvg-rec="0",beIN Sports MENA 8
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6129/index.m3u8
+#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1 
+https://xyzdddd.mizhls.ru/lb/premium116/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 2 
+https://xyzdddd.mizhls.ru/lb/premium117/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSports3(src01).fr" tvg-name="beIN SPORTS 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 3 
+https://xyzdddd.mizhls.ru/lb/premium118/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX4(src01).fr" tvg-name="beIN Sports MAX 4 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 4 
+https://xyzdddd.mizhls.ru/lb/premium494/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX5(src01).fr" tvg-name="beIN Sports MAX 5 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 5 
+https://xyzdddd.mizhls.ru/lb/premium495/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX6(src01).fr" tvg-name="beIN Sports MAX 6 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 6 
+https://xyzdddd.mizhls.ru/lb/premium496/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX7(src01).fr" tvg-name="beIN Sports MAX 7 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 7 
+https://xyzdddd.mizhls.ru/lb/premium497/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX8(src01).fr" tvg-name="beIN Sports MAX 8 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 8 
+https://xyzdddd.mizhls.ru/lb/premium498/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX9(src01).fr" tvg-name="beIN Sports MAX 9 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 9 
+https://xyzdddd.mizhls.ru/lb/premium499/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="BeINSportsMAX10(src01).fr" tvg-name="beIN Sports MAX 10 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 10 
+https://xyzdddd.mizhls.ru/lb/premium500/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-name="Canal+ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-fr.png" group-title="Canal+-DaddyHD",Canal+ 
+https://xyzdddd.mizhls.ru/lb/premium121/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANALplusFOOT(src01).fr" tvg-name="Canal+ Foot " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-foot-fr.png" group-title="Canal+-DaddyHD",Canal+ Foot 
+https://xyzdddd.mizhls.ru/lb/premium463/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANALplusSPORT(src01).fr" tvg-name="Canal+ Sport " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 
+https://xyzdddd.mizhls.ru/lb/premium122/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries//canal-plus-sport-360-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 360
+https://xyzdddd.mizhls.ru/lb/premium464/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 1 Afrique
+https://xyzdddd.mizhls.ru/lb/premium486/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 2 Afrique
+https://xyzdddd.mizhls.ru/lb/premium487/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.360.BARSAT.fr" tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 3 Afrique
+https://xyzdddd.mizhls.ru/lb/premium488/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 4 Afrique
+https://xyzdddd.mizhls.ru/lb/premium489/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 5 Afrique
+https://xyzdddd.mizhls.ru/lb/premium490/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
-#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
-
-
-#EXTINF:-1 tvg-name="beIN Sports 1 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 1 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 2 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 2 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 3 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 3 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 4 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 4 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 5 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 6 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 6 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 7 MENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 7 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 8 MENA" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 8 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 9 MENA" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports 9 MENA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 4" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium494/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 5" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium495/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 6" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 6
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium496/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 7" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 7
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium497/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 8" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 8
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium498/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 9" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 9
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium499/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MAX 10" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 10
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium500/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Canal+ " tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium121/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport " tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium122/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Foot " tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Foot 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport360" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 360
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 1 Afrique
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 2 Afrique
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 3 Afrique
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 4 Afrique
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Canal-DaddyHD",Canal+ Sport 5 Afrique
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8
+#EXTINF:-1 tvg-id="LEquipe(src01).fr" tvg-name="L'Equipe " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//lequipe-fr.png" group-title="Equipe-RMC",L'Equipe 
+https://xyzdddd.mizhls.ru/lb/premium645/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="RMCSport1(src01).fr" tvg-name="RMC Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//rmc-sport-1-fr.png" group-title="Equipe-RMC",RMC Sport 1 
+https://xyzdddd.mizhls.ru/lb/premium119/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-name="RMC Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//rmc-sport-2-fr.png" group-title="Equipe-RMC",RMC Sport 2 
+https://xyzdddd.mizhls.ru/lb/premium120/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
-#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium614/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium615/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium616/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-4-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium617/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium618/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium619/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium620/index.m3u8
-#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium621/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
+https://xyzdddd.mizhls.ru/lb/premium614/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="SSC Sport-DaddyHD",SSC Sport 2
+https://xyzdddd.mizhls.ru/lb/premium615/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="SSC Sport-DaddyHD",SSC Sport 3
+https://xyzdddd.mizhls.ru/lb/premium616/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="SSC Sport-DaddyHD",SSC Sport 4
+https://xyzdddd.mizhls.ru/lb/premium617/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="SSC Sport-DaddyHD",SSC Sport 5
+https://xyzdddd.mizhls.ru/lb/premium618/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 1
+https://xyzdddd.mizhls.ru/lb/premium619/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 2
+https://xyzdddd.mizhls.ru/lb/premium620/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
+https://xyzdddd.mizhls.ru/lb/premium621/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz

@@ -205,9 +205,9 @@ http://178.170.42.126/INFOSPORT/index.m3u8
 #EXTINF:-1 tvg-logo="https://download.vikidia.org/vikidia/fr/images/c/c3/Langfr-800px-L%27Équipe_wordmark.svg.png" group-title="Canal",L'Équipe
 https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Canal",L'Equipe Live 1 (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Canal",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Canal",L'Equipe Live 2 (1080p)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Canal",L'Equipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Canal" ,CNBC
@@ -222,13 +222,13 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/151.m3u8
 #EXTINF:-1 tvg-logo="https://frembed.live/logo/channels/DAZN-3-w.png" group-title="Canal" ,DAZN 3
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/160.m3u8
 
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-1-logo.png&w=256&q=75" group-title="Canal" ,beIN Sports MENA 1
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-1-logo.png&w=256&q=75" group-title="MENA" ,beIN Sports MENA 1
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/166.m3u8
 
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-2-logo.png&w=256&q=75" group-title="Canal" ,beIN Sports MENA 2
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-2-logo.png&w=256&q=75" group-title="MENA" ,beIN Sports MENA 2
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/167.m3u8
 
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-3-logo.png&w=256&q=75" group-title="Canal" ,beIN Sports MENA 3
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-3-logo.png&w=256&q=75" group-title="MENA" ,beIN Sports MENA 3
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/168.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium

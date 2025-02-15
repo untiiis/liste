@@ -19,7 +19,7 @@ https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-http://178.170.42.126/CANALPLUS/index.m3u8
+http://178.170.42.126/CANALPLUS/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="Canal" ,C8
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
@@ -52,7 +52,7 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/93.m3u8
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
-http://178.170.42.126/WARNER/index.m3u8
+http://178.170.42.126/WARNER/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,ARTE
 https://tvradiozap.eu/640
@@ -64,16 +64,16 @@ https://tvradiozap.eu/644
 https://jmp2.uk/sam-FR300003ZB.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png" group-title="Canal" ,RMC Découverte
-http://178.170.42.126/RMCDECOUVERTE/index.m3u8
+http://178.170.42.126/RMCDECOUVERTE/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1562.png" group-title="Canal" ,Paramount Channel
-http://178.170.42.126/PARAMOUNT/index.m3u8
+http://178.170.42.126/PARAMOUNT/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,Action
-http://178.170.42.126/ACTION/index.m3u8
+http://178.170.42.126/ACTION/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" group-title="Canal" ,Ciné+ OCS
-http://178.170.42.126/CINEPREMIER/index.m3u8
+http://178.170.42.126/CINEPREMIER/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,Ciné+ Frisson
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/201.m3u8
@@ -82,25 +82,25 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/201.m3u8
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/202.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="Canal" ,Canal+ Box Office
-http://178.170.42.126/CANALBOXOFFICE/index.m3u8
+http://178.170.42.126/CANALBOXOFFICE/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" group-title="Canal" ,Canal+ Grand Écran
-http://178.170.42.126/CANALGRANDECRAN/index.m3u8
+http://178.170.42.126/CANALGRANDECRAN/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="Canal" ,Canal+ Cinéma(s)
-http://178.170.42.126/CANALCINEMA/index.m3u8
+http://178.170.42.126/CANALCINEMA/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" ,Canal+ Séries
-http://178.170.42.126/CANALSERIES/index.m3u8
+http://178.170.42.126/CANALSERIES/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-http://178.170.42.126/CANALPLUS/index.m3u8
+http://178.170.42.126/CANALPLUS/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,Canal+ Sport
-http://178.170.42.126/CANALSPORT/index.m3u8
+http://178.170.42.126/CANALSPORT/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,Canal+ Sport 360
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/58.m3u8
@@ -115,49 +115,49 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ//49.m3u8
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,Canal+ Docs
-http://178.170.42.126/CANALDOCS/index.m3u8
+http://178.170.42.126/CANALDOCS/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="Canal" ,Planète+ 
-http://178.170.42.126/PLANETEPLUS/index.m3u8
+http://178.170.42.126/PLANETEPLUS/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" group-title="Canal" ,Planète+ Crime
-http://178.170.42.126/PLANETEPLUSCI/index.m3u8
+http://178.170.42.126/PLANETEPLUSCI/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-402.png" group-title="Canal" ,Planète+ Aventure
-http://178.170.42.126/PLANETEPLUSAE/index.m3u8
+http://178.170.42.126/PLANETEPLUSAE/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic Channel
-http://178.170.42.126/NATGEO/index.m3u8
+http://178.170.42.126/NATGEO/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" group-title="Canal" ,Nat Geo Wild
-http://178.170.42.126/NATGEOWILD/index.m3u8
+http://178.170.42.126/NATGEOWILD/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="Canal" ,Discovery
-http://178.170.42.126/DISCOVERY/index.m3u8
+http://178.170.42.126/DISCOVERY/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="" group-title="Canal" ,Discovery TLC
-http://178.170.42.126/DISCOVERYSCIENCE/index.m3u8
+http://178.170.42.126/DISCOVERYSCIENCE/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="" group-title="Canal" ,Discovery Investigation
-http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
+http://178.170.42.126/DISCOVERYINVESTIGATION/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" group-title="Canal" ,Trek
-http://178.170.42.126/TREK/index.m3u8
+http://178.170.42.126/TREK/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Canal" ,Animaux
-http://178.170.42.126/ANIMAUX/index.m3u8
+http://178.170.42.126/ANIMAUX/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Canal" ,Science & Vie TV
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/213.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Canal" ,Toute L'histoire
-http://178.170.42.126/TOUTELHISTOIRE/index.m3u8
+http://178.170.42.126/TOUTELHISTOIRE/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" group-title="Canal" ,Histoire
-http://178.170.42.126/HISTOIRE/index.m3u8
+http://178.170.42.126/HISTOIRE/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" group-title="Canal" ,Crime District
-http://178.170.42.126/CRIMEDISTRICT/index.m3u8
+http://178.170.42.126/CRIMEDISTRICT/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-87.png" group-title="Canal" ,Game One
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/104.m3u8
@@ -180,13 +180,13 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/205.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" ,Canal+ Kids
-http://178.170.42.126/CANALKIDS/index.m3u8
+http://178.170.42.126/CANALKIDS/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="Canal" ,TiJi
-http://178.170.42.126/TIJI/index.m3u8
+http://178.170.42.126/TIJI/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" group-title="Canal" ,Teletoon
-http://178.170.42.126/TELETOON/index.m3u8
+http://178.170.42.126/TELETOON/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-36.png" group-title="Canal" ,Cartoon Network
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/76.m3u8
@@ -196,11 +196,11 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/76.m3u8
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="Canal" ,TCM Cinéma
-http://178.170.42.126/TCMCINEMA/index.m3u8
+http://178.170.42.126/TCMCINEMA/mono.m3u8|Referer
 
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="Canal" ,Infosport+
-http://178.170.42.126/INFOSPORT/index.m3u8
+http://178.170.42.126/INFOSPORT/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://download.vikidia.org/vikidia/fr/images/c/c3/Langfr-800px-L%27Équipe_wordmark.svg.png" group-title="Canal",L'Équipe
 https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
@@ -211,7 +211,7 @@ https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Canal" ,CNBC
-http://178.170.42.126/CNBC/index.m3u8
+http://178.170.42.126/CNBC/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://frembed.live/logo/channels/DAZN-1-w.png" group-title="Canal" ,DAZN 1
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/150.m3u8
@@ -241,81 +241,81 @@ https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/167.m3u8
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/168.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
-https://dokko1new.iosplayer.ru/dokko1/premium609/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium609/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
-https://dokko1new.iosplayer.ru/dokko1/premium610/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium610/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 1
-https://dokko1new.iosplayer.ru/dokko1/premium91/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 2
-https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 3
-https://dokko1new.iosplayer.ru/dokko1/premium93/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 4
-https://dokko1new.iosplayer.ru/dokko1/premium94/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 5
-https://dokko1new.iosplayer.ru/dokko1/premium95/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 6
-https://dokko1new.iosplayer.ru/dokko1/premium96/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 7
-https://dokko1new.iosplayer.ru/dokko1/premium97/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium97/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 8
-https://dokko1new.iosplayer.ru/dokko1/premium98/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium98/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 9
-https://dokko1new.iosplayer.ru/dokko1/premium99/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium99/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
 
 #EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1 
-https://zekonew.iosplayer.ru/zeko/premium116/mono.m3u8|Referer=https://lewblivehdplay.ru/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium116/mono.m3u8|mono.m3u8|Referer=https://lewblivehdplay.ru/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 2 
-https://zekonew.iosplayer.ru/zeko/premium117/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium117/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSports3(src01).fr" tvg-name="beIN SPORTS 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 3 
-https://zekonew.iosplayer.ru/zeko/premium118/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium118/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX4(src01).fr" tvg-name="beIN Sports MAX 4 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 4 
-https://zekonew.iosplayer.ru/ddy6/premium494/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/ddy6/premium494/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX5(src01).fr" tvg-name="beIN Sports MAX 5 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 5 
-https://ddy6new.iosplayer.ru/ddy6/premium495/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium495/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX6(src01).fr" tvg-name="beIN Sports MAX 6 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 6 
-https://ddy6new.iosplayer.ru/ddy6/premium496/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium496/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX7(src01).fr" tvg-name="beIN Sports MAX 7 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 7 
-https://ddy6new.iosplayer.ru/ddy6/premium497/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium497/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX8(src01).fr" tvg-name="beIN Sports MAX 8 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 8 
-https://ddy6new.iosplayer.ru/ddy6/premium498/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium498/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX9(src01).fr" tvg-name="beIN Sports MAX 9 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 9 
-https://ddy6new.iosplayer.ru/ddy6/premium499/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium499/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX10(src01).fr" tvg-name="beIN Sports MAX 10 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 10 
-https://ddy6new.iosplayer.ru/ddy6/premium500/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium500/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-name="Canal+ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-fr.png" group-title="Canal+-DaddyHD",Canal+ 
-https://zekonew.iosplayer.ru/zeko/premium121/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium121/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANALplusFOOT(src01).fr" tvg-name="Canal+ Foot " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-foot-fr.png" group-title="Canal+-DaddyHD",Canal+ Foot 
-https://zekonew.iosplayer.ru/zeko/premium463/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium463/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANALplusSPORT(src01).fr" tvg-name="Canal+ Sport " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 
-https://zekonew.iosplayer.ru/zeko/premium122/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium122/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries//canal-plus-sport-360-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 360
-https://zekonew.iosplayer.ru/zeko/premium464/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium464/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 1 Afrique
-https://zekonew.iosplayer.ru/zeko/premium486/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium486/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 2 Afrique
-https://zekonew.iosplayer.ru/zeko/premium487/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium487/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.360.BARSAT.fr" tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 3 Afrique
-https://zekonew.iosplayer.ru/zeko/premium488/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium488/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 4 Afrique
-https://zekonew.iosplayer.ru/zeko/premium489/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium489/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa",Canal+ Sport 5 Afrique
-https://zekonew.iosplayer.ru/zeko/premium490/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium490/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
 #EXTINF:-1 tvg-id="LEquipe(src01).fr" tvg-name="L'Equipe " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//lequipe-fr.png" group-title="Equipe-RMC",L'Equipe 
-https://zekonew.iosplayer.ru/zeko/premium645/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium645/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="RMCSport1(src01).fr" tvg-name="RMC Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//rmc-sport-1-fr.png" group-title="Equipe-RMC",RMC Sport 1 
-https://zekonew.iosplayer.ru/zeko/premium119/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium119/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-name="RMC Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//rmc-sport-2-fr.png" group-title="Equipe-RMC",RMC Sport 2 
-https://zekonew.iosplayer.ru/zeko/premium120/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium120/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 
@@ -324,21 +324,21 @@ https://zekonew.iosplayer.ru/zeko/premium120/index.m3u8|Referer=https://cookiewe
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
-https://ddy6new.iosplayer.ru/ddy6/premium614/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium614/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="SSC Sport-DaddyHD",SSC Sport 2
-https://ddy6new.iosplayer.ru/ddy6/premium615/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium615/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="SSC Sport-DaddyHD",SSC Sport 3
-https://ddy6new.iosplayer.ru/ddy6/premium616/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium616/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="SSC Sport-DaddyHD",SSC Sport 4
-https://ddy6new.iosplayer.ru/ddy6/premium617/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium617/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="SSC Sport-DaddyHD",SSC Sport 5
-https://ddy6new.iosplayer.ru/ddy6/premium618/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium618/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 1
-https://dokko1new.iosplayer.ru/dokko1/premium619/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium619/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 2
-https://dokko1new.iosplayer.ru/dokko1/premium620/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium620/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
-https://dokko1new.iosplayer.ru/dokko1/premium621/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium621/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 
 

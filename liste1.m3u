@@ -75,11 +75,14 @@ http://178.170.42.126/ACTION/mono.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" group-title="Canal" ,Ciné+ OCS
 http://178.170.42.126/CINEPREMIER/mono.m3u8|Referer
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,Ciné+ Frisson
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,Ciné+ frisson
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/201.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-premier-fr.png" group-title="Canal" ,Ciné+ Premier
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-premier-fr.png" group-title="Canal" ,Ciné+ émotion
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/202.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcine-famiz-logo-min.png&w=256&q=75" group-title="Canal" ,Ciné+ family
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/198.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="Canal" ,Canal+ Box Office
 http://178.170.42.126/CANALBOXOFFICE/mono.m3u8|Referer
@@ -104,6 +107,21 @@ http://178.170.42.126/CANALSPORT/mono.m3u8|Referer
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,Canal+ Sport 360
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/58.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcanal-plus-sport-1-min.png&w=256&q=75" group-title="Canal" ,Canal+ Sport 1
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/55.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=https%3A%2F%2Ffrembed.live%2Flogo%2Fchannels%2Fcanal-plus-sport-2.png&w=256&q=75" group-title="Canal" ,Canal+ Sport 2
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/56.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcanal-plus-sport-3.png&w=256&q=75" group-title="Canal" ,Canal+ Sport 3
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcanal-plus-sport-4.png&w=256&q=75" group-title="Canal" ,Canal+ Sport 4
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/161.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcanal-plus-sport-5-min.png&w=256&q=75" group-title="Canal" ,Canal+ Sport 5
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/162.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png" group-title="Canal" ,beIN Sports 1
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/44.m3u8
@@ -174,7 +192,6 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/180.m3u8
 #EXTINF:-1 tvg-logo="https://witv.space/templates/witv/images/logo/nickelodeon-logo-min.png" group-title="Canal" ,Nickelodeon
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/178.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://witv.space/templates/witv/images/logo/disney-channel-logo-min.png" group-title="Canal" ,Disney Channel
 https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/205.m3u8
 
@@ -224,22 +241,6 @@ https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/160.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal-Frembed" ,Canal+
-https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-1-logo.png&w=256&q=75" group-title="beIN Sports MENA-Frembed" ,beIN Sports MENA 1
-https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/166.m3u8
-
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-2-logo.png&w=256&q=75" group-title="beIN Sports MENA-Frembed" ,beIN Sports MENA 2
-https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/167.m3u8
-
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-3-logo.png&w=256&q=75" group-title="beIN Sports MENA-Frembed" ,beIN Sports MENA 3
-https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/168.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
 https://dokko1new.iosplayer.ru/dokko1/premium609/mono.m3u8|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
@@ -264,8 +265,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium97/mono.m3u8|Referer|mono.m3u8|Refe
 https://dokko1new.iosplayer.ru/dokko1/premium98/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 9
 https://dokko1new.iosplayer.ru/dokko1/premium99/mono.m3u8|Referer|mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-
-
 
 
 #EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1 
@@ -329,13 +328,31 @@ https://dokko1new.iosplayer.ru/dokko1/premium621/mono.m3u8|Referer|mono.m3u8|Ref
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-Frembed",SSC Sport 1
+
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Frembed" ,Canal+
+https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Frembed" ,Canal+ Sport
+https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-1-logo.png&w=256&q=75" group-title="Frembed" ,beIN Sports MENA 1
+https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/166.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-2-logo.png&w=256&q=75" group-title="Frembed" ,beIN Sports MENA 2
+https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/167.m3u8
+
+#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fbein-sports-3-logo.png&w=256&q=75" group-title="Frembed" ,beIN Sports MENA 3
+https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/168.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="Frembed",SSC Sport 1
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/182.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="SSC Sport-Frembed",SSC Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="Frembed",SSC Sport 2
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/189.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="SSC Sport-Frembed",SSC Sport 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="Frembed",SSC Sport 3
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/190.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="SSC Sport-Frembed",SSC Sport 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="Frembed",SSC Sport 4
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/191.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="SSC Sport-Frembed",SSC Sport 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="Frembed",SSC Sport 5
 https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/192.m3u8

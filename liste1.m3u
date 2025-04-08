@@ -4,10 +4,10 @@
 https://tvradiozap.eu/890
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , France 2
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/137.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/137.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 3
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/138.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/138.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 4
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
@@ -16,7 +16,7 @@ https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/102.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
 http://178.170.42.126/CANALPLUS/mono.m3u8|Referer
@@ -25,7 +25,7 @@ http://178.170.42.126/CANALPLUS/mono.m3u8|Referer
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="Canal" ,W9
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/79.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="Canal" ,TMC
 https://tvradiozap.eu/895
@@ -46,10 +46,10 @@ https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/25.m3u8
 https://tvradiozap.eu/649
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="Canal" ,RTL9
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/93.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/93.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-479.png" group-title="Canal" ,SYFY
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/91.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
 http://178.170.42.126/WARNER/mono.m3u8|Referer
@@ -76,10 +76,10 @@ http://178.170.42.126/ACTION/index.m3u8
 http://178.170.42.126/CINEPREMIER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,Ciné+ frisson
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/201.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/201.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-premier-fr.png" group-title="Canal" ,Ciné+ émotion
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/202.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/202.m3u8
 
 #EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcine-famiz-logo-min.png&w=256&q=75" group-title="Canal" ,Ciné+ family
 https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/198.m3u8
@@ -100,13 +100,13 @@ http://178.170.42.126/CANALSERIES/index.m3u8
 http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/88.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,Canal+ Sport
 http://178.170.42.126/CANALSPORT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,Canal+ Sport 360
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/58.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/58.m3u8
 
 #EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcanal-plus-sport-1-min.png&w=256&q=75" group-title="Canal" ,Canal+ Sport 1
 https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/55.m3u8
@@ -124,13 +124,13 @@ https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/161.m3u8
 https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/162.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png" group-title="Canal" ,beIN Sports 1
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/44.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png" group-title="Canal" ,beIN Sports 2
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ//49.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25//49.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1335.png" group-title="Canal" ,beIN Sports 3
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/50.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,Canal+ Docs
 http://178.170.42.126/CANALDOCS/index.m3u8
@@ -166,7 +166,7 @@ http://178.170.42.126/TREK/index.m3u8
 http://178.170.42.126/ANIMAUX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Canal" ,Science & Vie TV
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/213.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/213.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Canal" ,Toute L'histoire
 http://178.170.42.126/TOUTELHISTOIRE/index.m3u8
@@ -178,22 +178,22 @@ http://178.170.42.126/HISTOIRE/index.m3u8
 http://178.170.42.126/CRIMEDISTRICT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-87.png" group-title="Canal" ,Game One
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/104.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/104.m3u8
 
 #EXTINF:-1 tvg-logo="https://witv.space/templates/witv/images/logo/j-one-logo-white-min.png" group-title="Canal" ,J-One
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/176.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/176.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-6.png" group-title="Canal" ,Mangas
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/97.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/97.m3u8
 
 #EXTINF:-1 tvg-logo="https://witv.space/templates/witv/images/logo/boomerang-logo-min.png" group-title="Canal" ,Boomerang
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/180.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/180.m3u8
 
 #EXTINF:-1 tvg-logo="https://witv.space/templates/witv/images/logo/nickelodeon-logo-min.png" group-title="Canal" ,Nickelodeon
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/178.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/178.m3u8
 
 #EXTINF:-1 tvg-logo="https://witv.space/templates/witv/images/logo/disney-channel-logo-min.png" group-title="Canal" ,Disney Channel
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/205.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/205.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" ,Canal+ Kids
@@ -206,11 +206,11 @@ http://178.170.42.126/TIJI/index.m3u8
 http://178.170.42.126/TELETOON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-36.png" group-title="Canal" ,Cartoon Network
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/76.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/76.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92753990" group-title="Canal" ,Novelas TV
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/103.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="Canal" ,TCM Cinéma
 http://178.170.42.126/TCMCINEMA/index.m3u8
@@ -230,13 +230,13 @@ https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 http://178.170.42.126/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://frembed.live/logo/channels/DAZN-1-w.png" group-title="Canal" ,DAZN 1
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/150.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/150.m3u8
 
 #EXTINF:-1 tvg-logo="https://frembed.live/logo/channels/DAZN-2-w.png" group-title="Canal" ,DAZN 2
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/151.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/151.m3u8
 
 #EXTINF:-1 tvg-logo="https://frembed.live/logo/channels/DAZN-3-w.png" group-title="Canal" ,DAZN 3
-https://fremtv.lol/WiTVAAMCYNQz4K/WiTVf6pcjxNHUZ/160.m3u8
+https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/160.m3u8
 
 
 

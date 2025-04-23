@@ -19,10 +19,7 @@ https://tvradiozap.eu/891
 https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-http://178.170.42.126/CANALPLUS/mono.m3u8|Referer
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png" group-title="Canal" ,C8
-https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
+http://178.170.42.126/CANALPLUS/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="Canal" ,W9
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
@@ -49,7 +46,7 @@ https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/93.m3u8
 https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
-http://178.170.42.126/WARNER/mono.m3u8|Referer
+http://178.170.42.126/WARNER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,ARTE
 https://tvradiozap.eu/640
@@ -69,14 +66,17 @@ http://178.170.42.126/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,Action
 http://178.170.42.126/ACTION/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/polar-plus-fr.png" group-title="Canal" ,Polar+
+http://178.170.42.126/POLAR/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" group-title="Canal" ,Ciné+ OCS
 http://178.170.42.126/CINEPREMIER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,Ciné+ frisson
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/201.m3u8
+http://178.170.42.126/CINEPLUSFRISSON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-premier-fr.png" group-title="Canal" ,Ciné+ émotion
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/202.m3u8
+http://178.170.42.126/CINEPLUSEMOTION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcine-famiz-logo-min.png&w=256&q=75" group-title="Canal" ,Ciné+ family
 https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/198.m3u8

@@ -4,16 +4,16 @@
 https://tvradiozap.eu/890
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , France 2
-https://tvradiozap.eu/887
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 3
-https://tvradiozap.eu/892
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 4
-https://tvradiozap.eu/893
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 5
-https://tvradiozap.eu/891
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
 https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/102.m3u8
@@ -31,16 +31,13 @@ https://tvradiozap.eu/895
 https://tvradiozap.eu/896
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,6ter
-https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5v0.m3u8
+http://94.242.50.89/streams/2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,Chérie 25
 https://tvradiozap.eu/646
 
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="Canal",TF1 Séries Films
 https://tvradiozap.eu/649
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="Canal" ,RTL9
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/93.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-479.png" group-title="Canal" ,SYFY
 https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/91.m3u8

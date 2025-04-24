@@ -42,7 +42,7 @@ https://tvradiozap.eu/649
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
 http://178.170.42.126/WARNER/index.m3u8
 
-#EXTINF:-1,COMEDY_CENTRAL
+#EXTINF:-1 group-title="Canal" ,COMEDY_CENTRAL
 http://213.246.39.14/COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,ARTE
@@ -197,22 +197,22 @@ https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Canal" ,CNBC
 http://178.170.42.126/CNBC/index.m3u8
 
-#EXTINF:-1,TF1
+#EXTINF:-1 group-title="Canal" ,TF1
 http://213.246.39.14/TF1HD/index.m3u8
 
-#EXTINF:-1,W9
+#EXTINF:-1 group-title="Canal" ,W9
 http://213.246.39.14/W9_HD/index.m3u8
 
-#EXTINF:-1,TMC
+#EXTINF:-1 group-title="Canal" ,TMC
 http://213.246.39.14/TMC_HD/index.m3u8
 
-#EXTINF:-1,TFX
+#EXTINF:-1 group-title="Canal" ,TFX
 http://213.246.39.14/TFX_HD/index.m3u8
 
-#EXTINF:-1,PIWI
+#EXTINF:-1 group-title="Canal" ,PIWI
 http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
 
-#EXTINF:-1,TIJI
+#EXTINF:-1 group-title="Canal" ,TIJI
 http://213.246.39.14/TIJI_HD/index.m3u8
 
 

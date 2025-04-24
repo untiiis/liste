@@ -183,7 +183,7 @@ https://tvradiozap.eu/1074
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="Canal" ,TCM Cinéma
 http://178.170.42.126/TCMCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="Canal" ,Infosport+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="Canal" ,InfoSport+
 http://178.170.42.126/INFOSPORT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.vikidia.org/vikidia/fr/images/c/c3/Langfr-800px-L%27Équipe_wordmark.svg.png" group-title="Canal",L'Équipe

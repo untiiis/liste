@@ -39,11 +39,11 @@ https://tvradiozap.eu/646
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="Canal",TF1 Séries Films
 https://tvradiozap.eu/649
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-479.png" group-title="Canal" ,SYFY
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/91.m3u8
-
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
 http://178.170.42.126/WARNER/index.m3u8
+
+#EXTINF:-1,COMEDY_CENTRAL
+http://213.246.39.14/COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,ARTE
 https://tvradiozap.eu/640
@@ -196,6 +196,24 @@ https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Canal" ,CNBC
 http://178.170.42.126/CNBC/index.m3u8
+
+#EXTINF:-1,TF1
+http://213.246.39.14/TF1HD/index.m3u8
+
+#EXTINF:-1,W9
+http://213.246.39.14/W9_HD/index.m3u8
+
+#EXTINF:-1,TMC
+http://213.246.39.14/TMC_HD/index.m3u8
+
+#EXTINF:-1,TFX
+http://213.246.39.14/TFX_HD/index.m3u8
+
+#EXTINF:-1,PIWI
+http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
+
+#EXTINF:-1,TIJI
+http://213.246.39.14/TIJI_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium

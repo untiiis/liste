@@ -197,7 +197,7 @@ https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Canal" ,CNBC
 http://178.170.42.126/CNBC/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,TF1
+#EXTINF:-1 group-title="Canal" ,TF1 HD
 http://213.246.39.14/TF1HD/index.m3u8
 
 #EXTINF:-1 group-title="Canal" ,W9

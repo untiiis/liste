@@ -42,7 +42,7 @@ https://tvradiozap.eu/649
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
 http://178.170.42.126/WARNER/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,COMEDY_CENTRAL
+#EXTINF:-1 group-title="Canal" ,Comedy Central
 http://213.246.39.14/COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,ARTE

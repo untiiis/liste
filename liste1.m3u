@@ -200,19 +200,19 @@ http://178.170.42.126/CNBC/index.m3u8
 #EXTINF:-1 group-title="Canal" ,TF1 HD
 http://213.246.39.14/TF1HD/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,W9
+#EXTINF:-1 group-title="Canal" ,W9 HD
 http://213.246.39.14/W9_HD/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,TMC
+#EXTINF:-1 group-title="Canal" ,TMC HD
 http://213.246.39.14/TMC_HD/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,TFX
+#EXTINF:-1 group-title="Canal" ,TFX HD
 http://213.246.39.14/TFX_HD/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,PIWI
+#EXTINF:-1 group-title="Canal" ,PIWI 
 http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,TIJI
+#EXTINF:-1 group-title="Canal" ,TIJI HD
 http://213.246.39.14/TIJI_HD/index.m3u8
 
 

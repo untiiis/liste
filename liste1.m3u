@@ -75,8 +75,14 @@ http://178.170.42.126/CINEPLUSFRISSON/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-premier-fr.png" group-title="Canal" ,Ciné+ émotion
 http://178.170.42.126/CINEPLUSEMOTION/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frembed.live/_next/image?url=%2Flogo%2Fchannels%2Fcine-famiz-logo-min.png&w=256&q=75" group-title="Canal" ,Ciné+ family
-https://fremtv.lol/live/144BB5626E2EDF5C9E6B39A688E5DF07/198.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-festival-fr.png" group-title="Canal" ,Ciné+ festival
+http://178.170.42.126/CINEPLUSCLUB/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-classic-fr.png" group-title="Canal" ,Ciné+ classic
+http://178.170.42.126/CINEPLUSCLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-family-fr.png" group-title="Canal" ,Ciné+ family
+http://178.170.42.126/CINEPLUSFAMIZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="Canal" ,Canal+ Box Office
 http://178.170.42.126/CANALBOXOFFICE/index.m3u8
@@ -135,8 +141,11 @@ http://178.170.42.126/TREK/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Canal" ,Animaux
 http://178.170.42.126/ANIMAUX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Canal" ,Science & Vie TV
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/213.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Canal" ,Science & Vie
+http://178.170.42.126/SCIENCEVIETV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/ushuaia-tv-fr.png" group-title="Canal" ,Ushuaia
+http://178.170.42.126/USHUAIATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Canal" ,Toute L'histoire
 http://178.170.42.126/TOUTELHISTOIRE/index.m3u8

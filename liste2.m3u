@@ -33,10 +33,10 @@ plugin://plugin.video.orange.fr/stream/live/livetv_tfx_ctv
 #EXTINF:-1 tvg-name="GULLI" tvg-id="482" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_gulli%2F20230921_113253%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="18" group-title="TNT" catchup="vod",GULLI
 plugin://plugin.video.orange.fr/stream/live/livetv_gulli_ctv
 
-#EXTINF:-1 tvg-name="TF1 SERIES FILMS" tvg-id="1404" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_hd1%2F20200324_111923%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="20" group-title="TNT" catchup="vod",TF1 SERIES FILMS
+#EXTINF:-1 tvg-name="TF1 SERIES FILMS" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_hd1%2F20200324_111923%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="20" group-title="TNT" catchup="vod",TF1 SERIES FILMS
 plugin://plugin.video.orange.fr/stream/live/livetv_tf1_series_films_ctv
 
-#EXTINF:-1 tvg-name="LA CHAINE L'EQUIPE" tvg-id="1401" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_equipe21%2F20180417_141110%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="21" group-title="TNT" catchup="vod",LA CHAINE L'EQUIPE
+#EXTINF:-1 tvg-name="LA CHAINE L'EQUIPE" tvg-id="LEquipe21.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_equipe21%2F20180417_141110%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="21" group-title="TNT" catchup="vod",LA CHAINE L'EQUIPE
 plugin://plugin.video.orange.fr/stream/live/livetv_la_chaine_l_equipe_ctv
 
 #EXTINF:-1 tvg-name="6TER" tvg-id="1403" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_6ter%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="22" group-title="TNT" catchup="vod",6TER
@@ -45,13 +45,13 @@ plugin://plugin.video.orange.fr/stream/live/livetv_6ter_ctv
 #EXTINF:-1 tvg-name="RMC STORY" tvg-id="1402" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_numero23%2F20181002_112821%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="23" group-title="TNT" catchup="vod",RMC STORY
 plugin://plugin.video.orange.fr/stream/live/livetv_rmc_story_ctv
 
-#EXTINF:-1 tvg-name="RMC DECOUVERTE" tvg-id="1400" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rmcdecouverte%2F20220317_155749%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="24" group-title="TNT" catchup="vod",RMC DECOUVERTE
+#EXTINF:-1 tvg-name="RMC DECOUVERTE" tvg-id="RMCDecouverte.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rmcdecouverte%2F20220317_155749%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="24" group-title="TNT" catchup="vod",RMC DECOUVERTE
 plugin://plugin.video.orange.fr/stream/live/livetv_rmc_decouverte_ctv
 
-#EXTINF:-1 tvg-name="CHERIE 25" tvg-id="1399" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cherie25%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="25" group-title="TNT" catchup="vod",CHERIE 25
+#EXTINF:-1 tvg-name="CHERIE 25" tvg-id="Cherie25.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cherie25%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="25" group-title="TNT" catchup="vod",CHERIE 25
 plugin://plugin.video.orange.fr/stream/live/livetv_cherie_25_ctv
 
-#EXTINF:-1 tvg-name="TV5MONDE" tvg-id="205" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tv5%2F20230719_182354%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="26" group-title="Mini-généralistes" catchup="vod",TV5MONDE
+#EXTINF:-1 tvg-name="TV5MONDE" tvg-id="TV5Monde.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tv5%2F20230719_182354%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="26" group-title="Mini-généralistes" catchup="vod",TV5MONDE
 plugin://plugin.video.orange.fr/stream/live/livetv_tv5monde_ctv
 
 #EXTINF:-1 tvg-name="RTL9" tvg-id="115" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rtl9%2F20230517_112910%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="27" group-title="Mini-généralistes" catchup="vod",RTL9
@@ -63,13 +63,13 @@ plugin://plugin.video.orange.fr/stream/live/livetv_mtv_ctv
 #EXTINF:-1 tvg-name="BET" tvg-id="1960" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_bet%2F20240516_151006%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="29" group-title="Divertissement" catchup="vod",BET
 plugin://plugin.video.orange.fr/stream/live/livetv_bet_ctv
 
-#EXTINF:-1 tvg-name="WARNER TV" tvg-id="2334" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_warner_tv%2F20240529_103158%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="30" group-title="Orange TV France" catchup="vod",WARNER TV
+#EXTINF:-1 tvg-name="WARNER" tvg-id="WarnerTV.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_warner_tv%2F20240529_103158%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="30" group-title="Orange TV France" catchup="vod",WARNER
 plugin://plugin.video.orange.fr/stream/live/livetv_warnertv_ctv
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-id="2752" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_comedycentral%2F20181002_120516%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="31" group-title="Divertissement" catchup="vod",COMEDY CENTRAL
 http://213.246.39.14/COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-name="PARAMOUNT tvg-id="1562" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_paramount%2F20250121_144410%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="32" group-title="Cinéma" catchup="vod",PARAMOUNT
+#EXTINF:-1 tvg-name="PARAMOUNT tvg-id="ParamountChannel.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_paramount%2F20250121_144410%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="32" group-title="Cinéma" catchup="vod",PARAMOUNT
 http://178.170.42.126/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-name="ACTION" tvg-id="10" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_action%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="33" group-title="Cinéma" catchup="vod",ACTION
@@ -78,46 +78,46 @@ http://178.170.42.126/ACTION/index.m3u8
 #EXTINF:-1 tvg-name="POLAR+" tvg-id="2326" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_polarPlus%2F20171002_155125%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="34" group-title="Divertissement" catchup="vod",POLAR+
 http://178.170.42.126/POLAR/index.m3u8
 
-#EXTINF:-1 tvg-name="CINÉ+ émotion" tvg-id="283" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_emotion%2F20240613_155205%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="35" group-title="Cinéma" catchup="vod",CINÉ+ émotion
+#EXTINF:-1 tvg-name="CINÉ+ émotion" tvg-id="CinePlusEmotion.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_emotion%2F20240613_155205%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="35" group-title="Cinéma" catchup="vod",CINÉ+ émotion
 http://178.170.42.126/CINEPLUSEMOTION/index.m3u8
 
-#EXTINF:-1 tvg-name="CINÉ+ festival" tvg-id="285" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_club%2F20240613_155112%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="36" group-title="Cinéma" catchup="vod",CINÉ+ festival
+#EXTINF:-1 tvg-name="CINÉ+ festival" tvg-id="CinePlusClub.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_club%2F20240613_155112%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="36" group-title="Cinéma" catchup="vod",CINÉ+ festival
 http://178.170.42.126/CINEPLUSCLUB/index.m3u8
 
-#EXTINF:-1 tvg-name="CINÉ+ frisson" tvg-id="284" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_frisson%2F20240613_155353%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="37" group-title="Cinéma" catchup="vod",CINÉ+ frisson
+#EXTINF:-1 tvg-name="CINÉ+ frisson" tvg-id="CinePlusFrisson.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_frisson%2F20240613_155353%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="37" group-title="Cinéma" catchup="vod",CINÉ+ frisson
 http://178.170.42.126/CINEPLUSFRISSON/index.m3u8
 
-#EXTINF:-1 tvg-name="CINÉ+ family" tvg-id="401" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_famiz%2F20240613_155257%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="38" group-title="Cinéma" catchup="vod",CINÉ+ family
+#EXTINF:-1 tvg-name="CINÉ+ family" tvg-id="CinePlusFamiz.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_famiz%2F20240613_155257%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="38" group-title="Cinéma" catchup="vod",CINÉ+ family
 http://178.170.42.126/CINEPLUSFAMIZ/index.m3u8
 
-#EXTINF:-1 tvg-name="CINÉ+ OCS" tvg-id="282" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_premier%2F20240613_155504%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="39" group-title="Premium" catchup="vod",CINÉ+ OCS
+#EXTINF:-1 tvg-name="CINÉ+ OCS" tvg-id="CinePlusPremier.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cineplus_premier%2F20240613_155504%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="39" group-title="Premium" catchup="vod",CINÉ+ OCS
 http://178.170.42.126/CINEPREMIER/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+" tvg-id="34" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus%2F20230919_140016%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="40" group-title="TNT" catchup="vod",CANAL+
+#EXTINF:-1 tvg-name="CANAL+" tvg-id="CanalPlus.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus%2F20230919_140016%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="40" group-title="Premium" catchup="vod",CANAL+
 http://178.170.42.126/CANALPLUS/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+ SÉRIES" tvg-id="33" tvg-logo="https://proxymedia.woopic.com/api/v1/images/1618%2Fedithor%2Fboutique-tv%2Fcanalplusseries_6704d1e6a94efd791ea79e81.png" tvg-chno="41" group-title="Premium" catchup="vod",CANAL+ CINEMA(S)
+#EXTINF:-1 tvg-name="CANAL+ SÉRIES" tvg-id="CanalPlusSeries.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/1618%2Fedithor%2Fboutique-tv%2Fcanalplusseries_6704d1e6a94efd791ea79e81.png" tvg-chno="41" group-title="Premium" catchup="vod",CANAL+ SÉRIES
 http://178.170.42.126/CANALSERIES/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+ CINEMA(S)" tvg-id="33" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canal_cinema%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="42" group-title="Premium" catchup="vod",CANAL+ CINEMA(S)
+#EXTINF:-1 tvg-name="CANAL+ CINEMA(S)" tvg-id="CanalPlusCinema.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canal_cinema%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="42" group-title="Premium" catchup="vod",CANAL+ CINEMA(S)
 http://178.170.42.126/CANALCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE" tvg-id="3779" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_box_office%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="43" group-title="Premium" catchup="vod",CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE" tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_box_office%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="43" group-title="Premium" catchup="vod",CANAL+ BOX OFFICE
 http://178.170.42.126/CANALBOXOFFICE/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN" tvg-id="3349" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_grand_ecran%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="44" group-title="Premium" catchup="vod",CANAL+ GRAND ECRAN
+#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN" tvg-id="CanalPlusGrandEcran.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_grand_ecran%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="44" group-title="Premium" catchup="vod",CANAL+ GRAND ECRAN
 http://178.170.42.126/CANALGRANDECRAN/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+DOCS" tvg-id="3347" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_docs%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="45" group-title="Premium" catchup="vod",CANAL+DOCS
+#EXTINF:-1 tvg-name="CANAL+DOCS" tvg-id="CanalPlusDocs.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_docs%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="45" group-title="Premium" catchup="vod",CANAL+DOCS
 http://178.170.42.126/CANALDOCS/index.m3u8
 
-#EXTINF:-1 tvg-name="PLANETE+" tvg-id="147" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_planeteplus%2F20220601_165712%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="46" group-title="Découverte" catchup="vod",PLANETE+
+#EXTINF:-1 tvg-name="PLANETE+" tvg-id="PlanetePlus.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_planeteplus%2F20220601_165712%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="46" group-title="Découverte" catchup="vod",PLANETE+
 http://178.170.42.126/PLANETEPLUS/index.m3u8
 
-#EXTINF:-1 tvg-name="PLANETE+ CRIME" tvg-id="662" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_planeteplus_ci%2F20220315_112924%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="47" group-title="Découverte" catchup="vod",PLANETE+ CRIME
+#EXTINF:-1 tvg-name="PLANETE+ CRIME" tvg-id="PLANETEJustice.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_planeteplus_ci%2F20220315_112924%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="47" group-title="Découverte" catchup="vod",PLANETE+ CRIME
 http://178.170.42.126/PLANETEPLUSCI/index.m3u8
 
-#EXTINF:-1 tvg-name="PLANETE+ AVENTURE" tvg-id="402" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_planeteplus_aventure_experience%2F20220315_112924%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="48" group-title="Découverte" catchup="vod",PLANETE+ AVENTURE
+#EXTINF:-1 tvg-name="PLANETE+ AVENTURE" tvg-id="PlaneteAction.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_planeteplus_aventure_experience%2F20220315_112924%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="48" group-title="Découverte" catchup="vod",PLANETE+ AVENTURE
 http://178.170.42.126/PLANETEPLUSAE/index.m3u8
 
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="508" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_Natgeo%2F20241217_181140%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="49" group-title="Découverte" catchup="vod",NATIONAL GEOGRAPHIC
@@ -132,10 +132,10 @@ plugin://plugin.video.orange.fr/stream/live/livetv_animaux_ctv
 #EXTINF:-1 tvg-name="USHUAIA TV" tvg-id="451" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_ushuaia%2F20200102_141654%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="52" group-title="Découverte" catchup="vod",USHUAIA TV
 plugin://plugin.video.orange.fr/stream/live/livetv_ushuaia_tv_ctv
 
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="2184" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" tvg-chno="53" group-title="Orange TV France" catchup="vod",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" tvg-chno="53" group-title="Orange TV France" catchup="vod",DISCOVERY
 http://178.170.42.126/DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY TLC" tvg-id="1374" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tlc_wbd%2F20240529_103044%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="54" group-title="Orange TV France" catchup="vod",DISCOVERY TLC
+#EXTINF:-1 tvg-name="DISCOVERY TLC" tvg-id="DiscoveryScience.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tlc_wbd%2F20240529_103044%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="54" group-title="Orange TV France" catchup="vod",DISCOVERY TLC
 plugin://plugin.video.orange.fr/stream/live/livetv_tlc_ctv
 
 #EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION" tvg-id="2184" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_discovery_investigation%2F20240529_102919%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="55" group-title="Orange TV France" catchup="vod",DISCOVERY INVESTIGATION
@@ -150,7 +150,7 @@ http://178.170.42.126/HISTOIRE/index.m3u8
 #EXTINF:-1 tvg-name="TREK" tvg-id="Trek.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png"  tvg-chno="58" group-title="Découverte" catchup="vod",TREK
 http://178.170.42.126/TREK/index.m3u8
 
-#EXTINF:-1 tvg-name="SCIENCE & VIE" tvg-id="63" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_encyclopedia%2F20220922_114506%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="59" group-title="Découverte" catchup="vod",SCIENCE & VIE
+#EXTINF:-1 tvg-name="SCIENCE & VIE" tvg-id="ScienceEtVieTV.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_encyclopedia%2F20220922_114506%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="59" group-title="Découverte" catchup="vod",SCIENCE & VIE
 http://178.170.42.126/SCIENCEVIETV/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" tvg-id="2037" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_CrimeDistrict%2F20160211_110558%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="60" group-title="Découverte" catchup="vod",CRIME DISTRICT
@@ -162,25 +162,25 @@ http://178.170.42.126/TIJI/index.m3u8
 #EXTINF:-1 tvg-name="CANAL+ kids" tvg-id="3348" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_kids%2F20230801_125104%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="62" group-title="Premium" catchup="vod",CANAL+ kids
 http://178.170.42.126/CANALKIDS/index.m3u8
 
-#EXTINF:-1 tvg-name="TELETOON+" tvg-id="197" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_teletoon%2F20170405_200000%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="63" group-title="Jeunesse" catchup="vod",TELETOON+
+#EXTINF:-1 tvg-name="TELETOON+" tvg-id="TeleToonPlus.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_teletoon%2F20170405_200000%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="63" group-title="Jeunesse" catchup="vod",TELETOON+
 http://178.170.42.126/TELETOON/index.m3u8
 
-#EXTINF:-1 tvg-name="WARNER NEXT" tvg-id="2040" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_Toonami%2F20230717_162813%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="64" group-title="Jeunes adultes" catchup="vod",WARNER NEXT
+#EXTINF:-1 tvg-name="WARNER NEXT" tvg-id="Toonami.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_Toonami%2F20230717_162813%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="64" group-title="Jeunes adultes" catchup="vod",WARNER NEXT
 http://178.170.42.126/WARNERTVNEXT/index.m3u8
 
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="58" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_disney_channel%2F20241217_180528%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="65" group-title="Jeunesse" catchup="vod",DISNEY CHANNEL
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="DisneyChannel.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_disney_channel%2F20241217_180528%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="65" group-title="Jeunesse" catchup="vod",DISNEY CHANNEL
 plugin://plugin.video.orange.fr/stream/live/livetv_disney_channel_ctv
 
 #EXTINF:-1 tvg-name="CNBC" tvg-id="51" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cnbc%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="66" group-title="Orange TV France;Information internationale" catchup="vod",CNBC
 plugin://plugin.video.orange.fr/stream/live/livetv_cnbc_ctv
 
-#EXTINF:-1 tvg-name="CANAL ALGERIE" tvg-id="90505" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalalgerie%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="67" group-title="Orange TV France" catchup="vod",CANAL ALGERIE
+#EXTINF:-1 tvg-name="CANAL ALGERIE" tvg-id="CanalAlgerie.ar" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalalgerie%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="67" group-title="Orange TV France" catchup="vod",CANAL ALGERIE
 plugin://plugin.video.orange.fr/stream/live/livetv_canal_algerie_ctv
 
-#EXTINF:-1 tvg-name="TF1 4K" tvg-id="2527" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_TF1_4K%2F20240516_150739%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="68" group-title="Orange TV France" catchup="vod",TF1 4K
+#EXTINF:-1 tvg-name="TF1 4K" tvg-id="TF1" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_TF1_4K%2F20240516_150739%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="68" group-title="Orange TV France" catchup="vod",TF1 4K
 plugin://plugin.video.orange.fr/stream/live/livetv_acces_limite_ctv
 
-#EXTINF:-1 tvg-name="M6 4K" tvg-id="3301" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_m6_4k%2F20241105_151505%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="69" group-title="Orange TV France" catchup="vod",M6 4K
+#EXTINF:-1 tvg-name="M6 4K" tvg-id="M6" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_m6_4k%2F20241105_151505%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="69" group-title="Orange TV France" catchup="vod",M6 4K
 plugin://plugin.video.orange.fr/stream/live/livetv_acces_limite_ctv
 
 
@@ -193,7 +193,7 @@ https://windnew.newkso.ru/wind/premium463/mono.m3u8|Referer=https%3A%2F%2Fxextre
 #EXTINF:-1 tvg-name="CANAL+ SPORT" tvg-id="35" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canal_sport%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="72" group-title="Premium" catchup="vod",CANAL+ SPORT
 https://windnew.newkso.ru/wind/premium122/mono.m3u8|Referer=https%3A%2F%2Fxextreamplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxextreamplay.xyz
 
-#EXTINF:-1 tvg-name="CANAL+ SPORT360" tvg-id="3504" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_sport_360%2F20230801_125104%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="73" group-title="Orange TV France" catchup="vod",CANAL+ SPORT360
+#EXTINF:-1 tvg-name="CANAL+ SPORT360" tvg-id="CanalPlusSport360.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_sport_360%2F20230801_125104%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="73" group-title="Orange TV France" catchup="vod",CANAL+ SPORT360
 https://windnew.newkso.ru/wind/premium464/mono.m3u8|Referer=https%3A%2F%2Fxextreamplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-id="1290" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_beinsport1%2F20180417_151324%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="74" group-title="Premium" catchup="vod",BEIN SPORTS 1

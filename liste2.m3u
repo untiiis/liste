@@ -182,7 +182,7 @@ plugin://plugin.video.orange.fr/stream/live/livetv_acces_limite_ctv
 
 
 #EXTINF:-1 tvg-name="CANAL+" tvg-id="34" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus%2F20230919_140016%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="70" group-title="TNT" catchup="vod",CANAL+
-http://178.170.42.126/CANALPLUS/index.m3u8
+https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https%3A%2F%2Fxextreamplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-name="CANAL+ FOOT" tvg-id="3501" tvg-logo="https://proxymedia.woopic.com/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canalplus_foot%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png" tvg-chno="71" group-title="Premium" catchup="vod",CANAL+ FOOT
 https://windnew.newkso.ru/wind/premium463/mono.m3u8|Referer=https%3A%2F%2Fxextreamplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxextreamplay.xyz

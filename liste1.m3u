@@ -281,6 +281,16 @@ https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8|Referer=https://alldownplay.
 https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 5 Afrique
 https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xyz
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 4 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 4 D
+https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xy
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 2
+https://x4-cdnnew.newkso.ru/x4-cdn/mono52/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xy
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 3
+https://x4-cdnnew.newkso.ru/x4-cdn/mono53/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xy
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 4
+https://x4-cdnnew.newkso.ru/x4-cdn/mono54/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xy
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ C
+https://x4-cdnnew.newkso.ru/x4-cdn/mono58/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|Origin=https://alldownplay.xy
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-DaddyHD",SSC Sport 1

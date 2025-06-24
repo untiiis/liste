@@ -216,6 +216,16 @@ http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
 http://213.246.39.14/TIJI_HD/index.m3u8
 
 
+#EXTINF:-1,CANAL+ Sport (CZ)
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1,CANAL+ Sport 2 (CZ)
+http://78.130.250.2:8023/play/a02w/index.m3u8
+
+#EXTINF:-1,Arena Sport 1 HD
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
 https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
@@ -291,10 +301,6 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono53/mono.m3u8|Referer=https://forcedtoplay
 https://x4-cdnnew.newkso.ru/x4-cdn/mono54/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ C
 https://x4-cdnnew.newkso.ru/x4-cdn/mono58/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
-
-
-#EXTINF:-1 tvg-id="CANALplusSPORT(src01).fr" tvg-name="Canal+ Sport Player 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries//canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport Player 1
-https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMxIDZlhjYzkTYzMTL2QDO40iZxADNtEWMmRWL4M2Y2UGZxAzL.m3u8|Referer=https://veplay.top/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://veplay.top
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
 https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz

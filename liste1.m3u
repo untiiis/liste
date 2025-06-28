@@ -1,7 +1,7 @@
 #EXTM3U   
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1 
-https://tvradiozap.eu/890 
+https://tvradiozap.eu/890
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
@@ -100,13 +100,13 @@ http://178.170.42.126/CANALSERIES/index.m3u8
 http://178.170.42.126/CANALPLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/88.m3u8
+http://163.172.40.244/nm/link?channel=463
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,Canal+ Sport
-http://178.170.42.126/CANALSPORT/index.m3u8
+http://163.172.40.244/nm/link?channel=122
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,Canal+ Sport 360
-https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/58.m3u8
+http://163.172.40.244/nm/link?channel=464
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,Canal+ Docs
 http://178.170.42.126/CANALDOCS/index.m3u8
@@ -216,6 +216,21 @@ http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
 http://213.246.39.14/TIJI_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="Canal" ,Canal+ Backup
+http://163.172.40.244/nm/link?channel=121
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal",Canal+ Sport Backup
+http://178.170.42.126/CANALSPORT/index.m3u8
+
+#EXTINF:-1 group-title="Canal",CANAL+ live1
+http://163.172.40.244/nm/link?channel=86
+#EXTINF:-1 group-title="Canal",CANAL+ live2
+http://163.172.40.244/nm/link?channel=110
+#EXTINF:-1 group-title="Canal",CANAL+ live3
+http://163.172.40.244/nm/link?channel=59
+#EXTINF:-1 group-title="Canal",CANAL+ live4
+http://163.172.40.244/nm/link?channel=76
+
 #EXTINF:-1,CANAL+ Sport (CZ)
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
@@ -318,3 +333,28 @@ https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|Referer=https://forcedto
 https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/AlgerianTV2015.png" group-title="ENTV", ENTV
+http://teledunet.com:8080/live/tdn/tdn/705.m3u8
+
+entv 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/TV6_Algeria_logo_%282020%29.svg/200px-TV6_Algeria_logo_%282020%29.svg.png" group-title="ENTV", ENTV 6
+stream_url=http://teledunet.com:8080/live/tdn/tdn/710.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ENTV", ENTV HD
+http://teledunet.com:8080/live/tdn/tdn/713.m3u8
+
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="beIN Sports MENA-TLDN",beIN SPORTS 1 Live Event
+http://teledunet.com:8080/live/tdn/tdn/9967138.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="beIN Sports MENA-TLDN",beIN SPORTS 2 Live Event
+http://teledunet.com:8080/live/tdn/tdn/9967245.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="beIN Sports MENA-TLDN",beIN SPORTS 3 Live Event
+http://teledunet.com:8080/live/tdn/tdn/9967246.m3u8

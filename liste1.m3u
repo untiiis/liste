@@ -231,13 +231,13 @@ http://163.172.40.244/nm/link?channel=59
 #EXTINF:-1 group-title="Canal",CANAL+ live4
 http://163.172.40.244/nm/link?channel=76
 
-#EXTINF:-1,CANAL+ Sport (CZ)
+#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-31.png" group-title="Canal",CANAL+ Sport (CZ)
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
-#EXTINF:-1,CANAL+ Sport 2 (CZ)
+#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport2-33.png" group-title="Canal",CANAL+ Sport 2 (CZ)
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
-#EXTINF:-1,Arena Sport 1 HD
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Canal",Arena Sport 1 HD
 http://78.130.250.2:8023/play/a02o/index.m3u8
 
 
@@ -341,13 +341,11 @@ https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https://forcedto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/AlgerianTV2015.png" group-title="ENTV", ENTV
 http://teledunet.com:8080/live/tdn/tdn/705.m3u8
 
-entv 6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/TV6_Algeria_logo_%282020%29.svg/200px-TV6_Algeria_logo_%282020%29.svg.png" group-title="ENTV", ENTV 6
-stream_url=http://teledunet.com:8080/live/tdn/tdn/710.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ENTV", ENTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ENTV", Canal Algérie
 http://teledunet.com:8080/live/tdn/tdn/713.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/TV6_Algeria_logo_%282020%29.svg/200px-TV6_Algeria_logo_%282020%29.svg.png" group-title="ENTV", ENTV 6
+http://teledunet.com:8080/live/tdn/tdn/710.m3u8
 
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="beIN Sports MENA-TLDN",beIN SPORTS 1 Live Event

@@ -216,29 +216,26 @@ http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
 http://213.246.39.14/TIJI_HD/index.m3u8
 
 
-#EXTINF:-1 group-title="Canal" ,Canal+ Backup
-http://163.172.40.244/nm/link?channel=121
-
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal",Canal+ Sport Backup
 http://178.170.42.126/CANALSPORT/index.m3u8
 
-#EXTINF:-1 group-title="Canal",CANAL+ live1
-http://163.172.40.244/nm/link?channel=86
-#EXTINF:-1 group-title="Canal",CANAL+ live2
-http://163.172.40.244/nm/link?channel=110
-#EXTINF:-1 group-title="Canal",CANAL+ live3
-http://163.172.40.244/nm/link?channel=59
-#EXTINF:-1 group-title="Canal",CANAL+ live4
-http://163.172.40.244/nm/link?channel=76
-
-#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-31.png" group-title="Canal",CANAL+ Sport (CZ)
+#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-31.png" group-title="Others",CANAL+ Sport (CZ)
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport2-33.png" group-title="Canal",CANAL+ Sport 2 (CZ)
+#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport2-33.png" group-title="Others",CANAL+ Sport 2 (CZ)
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Canal",Arena Sport 1 HD
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Others",Arena Sport 1
 http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Others",Arena Sport 1 HD
+http://163.172.40.244/nm/link?channel=134
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" group-title="Others",Arena Sport 2 HD
+http://163.172.40.244/nm/link?channel=135
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" group-title="Others",Arena Sport 3 HD
+http://163.172.40.244/nm/link?channel=139
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
@@ -267,9 +264,9 @@ https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8|Referer=https://forcedtoplay.
 
 
 #EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1 
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8|Referer=https://lewblivehdplay.ru/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0|Origin=https://newembedplay.xyz
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 2 
-https://zekonew.newkso.ru/zeko/premium117/mono.m3u8|eferer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="BeINSports3(src01).fr" tvg-name="beIN SPORTS 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 3 
 https://zekonew.newkso.ru/zeko/premium118/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="BeINSportsMAX4(src01).fr" tvg-name="beIN Sports MAX 4 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 4 
@@ -356,3 +353,98 @@ http://teledunet.com:8080/live/tdn/tdn/9967245.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 3 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="beIN Sports MENA-TLDN",beIN SPORTS 3 Live Event
 http://teledunet.com:8080/live/tdn/tdn/9967246.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-Link",SSC Sport 1
+http://163.172.40.244/nm/link?channel=614
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="SSC Sport-Link",SSC Sport 2
+http://163.172.40.244/nm/link?channel=615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="SSC Sport-Link",SSC Sport 3
+http://163.172.40.244/nm/link?channel=616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="SSC Sport-Link",SSC Sport 4
+http://163.172.40.244/nm/link?channel=617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="SSC Sport-Link",SSC Sport 5
+http://163.172.40.244/nm/link?channel=618
+
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal+-Link" ,Canal+
+http://163.172.40.244/nm/link?channel=121
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal+-Link" ,Canal+ Foot
+http://163.172.40.244/nm/link?channel=463
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal+-Link" ,Canal+ Sport
+http://163.172.40.244/nm/link?channel=122
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal+-Link" ,Canal+ Sport 360
+http://163.172.40.244/nm/link?channel=464
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-Link",Canal+ Sport 1 Afrique
+http://163.172.40.244/nm/link?channel=486
+#EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-Link",Canal+ Sport 2 Afrique
+http://163.172.40.244/nm/link?channel=487
+#EXTINF:-1 tvg-id="CANAL+.SPORT.360.BARSAT.fr" tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-Link",Canal+ Sport 3 Afrique
+http://163.172.40.244/nm/link?channel=488
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-Link",Canal+ Sport 4 Afrique
+http://163.172.40.244/nm/link?channel=489
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-Link",Canal+ Sport 5 Afrique
+http://163.172.40.244/nm/link?channel=490
+#EXTINF:-1 group-title="Canal+-Link",CANAL+ live1
+http://163.172.40.244/nm/link?channel=86
+#EXTINF:-1 group-title="Canal-Link",CANAL+ live2
+http://163.172.40.244/nm/link?channel=110
+#EXTINF:-1 group-title="Canal-Link",CANAL+ live3
+http://163.172.40.244/nm/link?channel=59
+#EXTINF:-1 group-title="Canal-Link",CANAL+ live4
+http://163.172.40.244/nm/link?channel=76
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-Link",Abu Dhabi Sports 1 Premium
+http://163.172.40.244/nm/link?channel=609
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-Link",Abu Dhabi Sports 2 Premium
+http://163.172.40.244/nm/link?channel=610
+
+
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 1
+http://163.172.40.244/nm/link?channel=91
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 2
+http://163.172.40.244/nm/link?channel=92
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 3
+http://163.172.40.244/nm/link?channel=93
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 4
+http://163.172.40.244/nm/link?channel=94
+#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 5
+http://163.172.40.244/nm/link?channel=95
+#EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 6
+http://163.172.40.244/nm/link?channel=96
+#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 7
+http://163.172.40.244/nm/link?channel=97
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 8
+http://163.172.40.244/nm/link?channel=98
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-Link",beIN Sports MENA 9
+http://163.172.40.244/nm/link?channel=99
+
+
+#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="beIN Sports FR-Link",beIN SPORTS 1 
+http://163.172.40.244/nm/link?channel=116
+#EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="beIN Sports FR-Link",beIN SPORTS 2 
+http://163.172.40.244/nm/link?channel=117
+#EXTINF:-1 tvg-id="BeINSports3(src01).fr" tvg-name="beIN SPORTS 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="beIN Sports FR-Link",beIN SPORTS 3 
+http://163.172.40.244/nm/link?channel=118
+#EXTINF:-1 tvg-id="BeINSportsMAX4(src01).fr" tvg-name="beIN Sports MAX 4 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 4 
+http://163.172.40.244/nm/link?channel=494
+#EXTINF:-1 tvg-id="BeINSportsMAX5(src01).fr" tvg-name="beIN Sports MAX 5 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 5 
+http://163.172.40.244/nm/link?channel=495
+#EXTINF:-1 tvg-id="BeINSportsMAX6(src01).fr" tvg-name="beIN Sports MAX 6 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 6 
+http://163.172.40.244/nm/link?channel=496
+#EXTINF:-1 tvg-id="BeINSportsMAX7(src01).fr" tvg-name="beIN Sports MAX 7 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 7 
+http://163.172.40.244/nm/link?channel=497
+#EXTINF:-1 tvg-id="BeINSportsMAX8(src01).fr" tvg-name="beIN Sports MAX 8 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 8 
+http://163.172.40.244/nm/link?channel=498
+#EXTINF:-1 tvg-id="BeINSportsMAX9(src01).fr" tvg-name="beIN Sports MAX 9 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 9 
+http://163.172.40.244/nm/link?channel=499
+#EXTINF:-1 tvg-id="BeINSportsMAX10(src01).fr" tvg-name="beIN Sports MAX 10 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="beIN Sports FR-Link",beIN Sports MAX 10 
+http://163.172.40.244/nm/link?channel=500

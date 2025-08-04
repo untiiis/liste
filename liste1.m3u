@@ -363,30 +363,3 @@ https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https://forcedto
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/AlgerianTV2015.png" group-title="ENTV", ENTV
-http://teledunet.com:8080/live/tdn/tdn/705.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ENTV", Canal Algérie
-http://teledunet.com:8080/live/tdn/tdn/713.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/TV6_Algeria_logo_%282020%29.svg/200px-TV6_Algeria_logo_%282020%29.svg.png" group-title="ENTV", ENTV 6
-http://teledunet.com:8080/live/tdn/tdn/710.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ENTV", Canal Algérie BackUp
-https://live20.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/TV6_Algeria_logo_%282020%29.svg/200px-TV6_Algeria_logo_%282020%29.svg.png" group-title="ENTV", ENTV 6 BackUp
-https://live20.bozztv.com/dvrfl05/ga-algeria6/index.m3u8
-
-
-#EXTINF:-1 tvg-name="beIN SPORTS 1 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="beIN SPORTS MENA-TLDN",beIN SPORTS 1 Live Event
-http://teledunet.com:8080/live/tdn/tdn/9967138.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 2 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="beIN SPORTS MENA-TLDN",beIN SPORTS 2 Live Event
-http://teledunet.com:8080/live/tdn/tdn/9967245.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 3 Live Event" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="beIN SPORTS MENA-TLDN",beIN SPORTS 3 Live Event
-http://teledunet.com:8080/live/tdn/tdn/9967246.m3u8

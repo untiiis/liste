@@ -224,61 +224,6 @@ https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal BackUp" ,TF1 
-https://tvradiozap.eu/890
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="Canal BackUp" ,TMC
-https://tvradiozap.eu/895
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="Canal BackUp" ,TFX
-https://tvradiozap.eu/896
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="Canal BackUp" ,W9
-http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Canal BackUp" ,Paramount Channel Décalé
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/6004/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,Canal+
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/6007/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,Ciné+ Frisson
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/6003/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,Ciné+ Classic
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/17039/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,Paris Premiere
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/6146/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,beIN SPORTS 1 
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2499/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,beIN SPORTS 2 
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2500/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,beIN SPORTS 3
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2501/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,Canal+ Sport
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2502/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,RMC Sport 1
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2545/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,RMC Sport 2
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2546/index.m3u8
-
-#EXTINF:-1 group-title="Canal BackUp" ,RMC Sport 3
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/2547/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
 https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
@@ -362,6 +307,7 @@ https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|Referer=https://forcedto
 https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
+
 
 
 

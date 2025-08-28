@@ -214,6 +214,16 @@ http://163.172.40.244/nm/link?channel=135
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" group-title="Others" ,Arena Sport 3 HD
 http://163.172.40.244/nm/link?channel=139
 
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Others",MBC 1 (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC1.mu@SD" tvg-logo="https://i.imgur.com/nDXLpQZ.png" group-title="Others",MBC 1
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="Others",MBC Masr 1 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="Others",MBC Masr 2 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal BackUp" ,TF1 
 https://tvradiozap.eu/890
@@ -334,16 +344,7 @@ https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8|Referer=https://forcedtoplay
 https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 5 Afrique
 https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 4 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 4 D
-https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 2
-https://x4-cdnnew.newkso.ru/x4-cdn/mono52/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 3
-https://x4-cdnnew.newkso.ru/x4-cdn/mono53/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 4
-https://x4-cdnnew.newkso.ru/x4-cdn/mono54/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ C
-https://x4-cdnnew.newkso.ru/x4-cdn/mono58/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://alldownplay.xy
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
 https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
@@ -361,5 +362,6 @@ https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|Referer=https://forcedto
 https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0|Origin=https://forcedtoplay.xyz
+
 
 

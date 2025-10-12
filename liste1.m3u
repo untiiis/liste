@@ -1,6 +1,6 @@
 #EXTM3U     
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1 
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1
 http://213.246.39.14/TF1HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , France 2
@@ -188,6 +188,7 @@ http://5.9.119.146:8883/beinfr1/index.m3u8
 
 #EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Canal",beIN SPORTS 2 
 http://5.9.119.146:8883/beinfr2/index.m3u8
+
 
 
 

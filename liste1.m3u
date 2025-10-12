@@ -183,50 +183,12 @@ http://178.170.42.126/INFOSPORT/index.m3u8
 #EXTINF:-1 tvg-logo="https://download.vikidia.org/vikidia/fr/images/c/c3/Langfr-800px-L%27Équipe_wordmark.svg.png" group-title="Canal",L'Équipe 
 https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20241015T040323SQUARE.png" group-title="Canal",L'Equipe Live 1 
-https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20241015T040327SQUARE.png" group-title="Canal",L'Equipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Canal" ,CNBC
-http://178.170.42.126/CNBC/index.m3u8
-
-
-#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Autres",beIN SPORTS 1
+#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Canal",beIN SPORTS 1
 http://5.9.119.146:8883/beinfr1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-31.png" group-title="Autres" ,CANAL+ Sport (CZ)
-http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Canal",beIN SPORTS 2 
+http://5.9.119.146:8883/beinfr2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport2-33.png" group-title="Autres" ,CANAL+ Sport 2 (CZ)
-http://78.130.250.2:8023/play/a02w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Autres" ,Arena Sport 1
-http://78.130.250.2:8023/play/a02o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Autres" ,Arena Sport 1 HD
-http://163.172.40.244/nm/link?channel=134
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" group-title="Autres" ,Arena Sport 2 HD
-http://163.172.40.244/nm/link?channel=135
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" group-title="Autres" ,Arena Sport 3 HD
-http://163.172.40.244/nm/link?channel=139
-
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Autres",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.mu@SD" tvg-logo="https://i.imgur.com/nDXLpQZ.png" group-title="Autres",MBC 1
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="Autres",MBC
-http://213.57.91.138:8000/play/a05k
-#EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Autres",MBC 4 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Autres",MBC 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="Autres",MBC Masr 1 
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="Autres",MBC Masr 2
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u
 
 
 

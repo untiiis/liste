@@ -1,216 +1,769 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 1 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Abu Dhabi Sports-DaddyHD",Abu Dhabi Sports 2 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium610/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="beIN Sports MENA-DaddyHD",beIN Sports MENA 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSports3(src01).fr" tvg-name="beIN SPORTS 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://zekonew.newkso.ru/zeko/premium118/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX4(src01).fr" tvg-name="beIN Sports MAX 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://zekonew.newkso.ru/ddy6/premium494/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX5(src01).fr" tvg-name="beIN Sports MAX 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX6(src01).fr" tvg-name="beIN Sports MAX 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX7(src01).fr" tvg-name="beIN Sports MAX 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX8(src01).fr" tvg-name="beIN Sports MAX 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX9(src01).fr" tvg-name="beIN Sports MAX 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8
-
-#EXTINF:-1 tvg-id="BeINSportsMAX10(src01).fr" tvg-name="beIN Sports MAX 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="beIN Sports FR-DaddyHD",beIN Sports MAX 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-name="Canal+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" group-title="Canal+-DaddyHD",Canal+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://windnew.newkso.ru/wind/premium121/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANALplusFOOT(src01).fr" tvg-name="Canal+ Foot" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png" group-title="Canal+-DaddyHD",Canal+ Foot
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://windnew.newkso.ru/wind/premium463/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANALplusSPORT(src01).fr" tvg-name="Canal+ Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://windnew.newkso.ru/wind/premium122/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-360-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 1 Afrique
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 2 Afrique
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.360.BARSAT.fr" tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 3 Afrique
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 4 Afrique
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Sport 5 Afrique
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 4 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 4 D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://alldownplay.xy
-https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://alldownplay.xy
-https://x4-cdnnew.newkso.ru/x4-cdn/mono52/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://alldownplay.xy
-https://x4-cdnnew.newkso.ru/x4-cdn/mono53/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Live 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ Live 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://alldownplay.xy
-https://x4-cdnnew.newkso.ru/x4-cdn/mono54/mono.m3u8
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Canal+-DaddyHD",Canal+ C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://alldownplay.xy
-https://x4-cdnnew.newkso.ru/x4-cdn/mono58/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="SSC Sport-DaddyHD",SSC Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="SSC Sport-DaddyHD",SSC Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium615/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="SSC Sport-DaddyHD",SSC Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="SSC Sport-DaddyHD",SSC Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="SSC Sport-DaddyHD",SSC Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="SSC Sport-DaddyHD",SSC Sport Extra 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8
+#EXTINF:11,6TER HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BzWpt842M9@Jq2K/index.m3u8
+#EXTINF:0,A+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/PrQF4076G4@C7Q/index.m3u8
+#EXTINF:0,AB1 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/PtQn571Pr6@ZkT5C/index.m3u8
+#EXTINF:0,AB3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BtQgs384K6@TnD5M/index.m3u8
+#EXTINF:0,BFM GRAND LITTORAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/Rq284K6@P2N/index.m3u8
+#EXTINF:0,BRAVA STANGRAY HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JtQbR492nU6@TbW6M/index.m3u8
+#EXTINF:0,CANAL+ 360 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/StZc4982V2@EqP95V/index.m3u8
+#EXTINF:0,CANAL+ BOX OFFICE HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/StQX4219p3@PtBZ41C/index.m3u8
+#EXTINF:0,CANAL+ BOX OFFICE UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/PqQiE8624K6@EnS72C/index.m3u8
+#EXTINF:0,CANAL+ BOX OFFICE UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/MtwWQ98012K8@Gc5X/index.m3u8
+#EXTINF:0,CANAL+ CINEMA HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/DqLt517K3@G8B/index.m3u8
+#EXTINF:0,CANAL+ DOCS HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/GtQUr4190K7@ZvW94M/index.m3u8
+#EXTINF:0,CANAL+ EVENEMENT UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JtQG542019I5@NrQ74W/index.m3u8
+#EXTINF:0,CANAL+ FOOT HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JtZX4190K6@RqKg85B/index.m3u8
+#EXTINF:0,CANAL+ FOOT UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UeVQL680193K2@Tq54J/index.m3u8
+#EXTINF:0,CANAL+ GRAND ECRAN HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/TbQ791H39@Y6K/index.m3u8
+#EXTINF:0,CANAL+ HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/QLt427H3@Ex5Q/index.m3u8
+#EXTINF:0,CANAL+ KIDS HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/DqK8427L3@T5H/index.m3u8
+#EXTINF:0,CANAL+ SERIES HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8
+#EXTINF:0,CANAL+ SPORT HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UdQSm942P@Zv6M/index.m3u8
+#EXTINF:0,CANAL+ UHD FRANCE
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JtQkR2049n0@E4B/index.m3u8
+#EXTINF:0,CHASSE & PÊCHE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/QlyF73@iXx843K/index.m3u8
+#EXTINF:0,CINE+ CLASSIC HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/EqKtZ4019O6@TbE73B/index.m3u8
+#EXTINF:0,CINE+ EMOTION HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UrQmMt5017j7M@E4VQ23C/index.m3u8
+#EXTINF:0,CINE+ FAMILY HD@50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/TRQ283KW3@6PrG5M/index.m3u8
+#EXTINF:0,CINE+ FESTIVAL HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UrQj5107m3@RcWp92N/index.m3u8
+#EXTINF:0,CINE+ FESTIVAL HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/PcQkt617k3@Pu2M/index.m3u8
+#EXTINF:0,CINE+ FRISSON HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/QniY924J@gZ3B/index.m3u8
+#EXTINF:0,CRIME DISTRICT HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/NtQbc483K7@UzN6W/index.m3u8
+#EXTINF:0,CSTAR HITS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/OtdS5173K2@U5H/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 1 HD (Vendredi Match)
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JqTcS531nU9@BnQs5M/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 2 HD (Samedi Match 1)
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BvZn718mU5@Ydv6R/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 3 HD (Samedi Match 2)
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/NmWb689iE3@BqHL7V/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 4 HD (Canal Multiplex LIVE ONLY)
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/DkTQq176j5@Ysm3P/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 5 HD (Dimanche 1er match)
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/VzQmP843Uj9@SkB6P/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 6 HD ( Dimanche 2eme Match )
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/KrQf806Hb3@FwmP84H/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 7 HD (Dimanche 3ème Match)
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/GzCh397D2@UeW4M6P/index.m3u8
+#EXTINF:0,DAZN LEAGUE 1 - 8 HD ( Dimanche 4ème MATCH )
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BrQq483Np6@TdNk9M/index.m3u8
+#EXTINF:0,DJAZZ TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/MtZxX831b6@PbX5M/index.m3u8
+#EXTINF:0,EURONEWS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/KQm792J4@P6M/index.m3u8
+#EXTINF:0,EUROSPORT 360-1 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UrQ5279K2@G679D/index.m3u8
+#EXTINF:0,EUROSPORT 360-2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/FrQi4519K6@RqD45N/index.m3u8
+#EXTINF:0,EUROSPORT 360-3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/ScQg72019U4@RjVt54L/index.m3u8
+#EXTINF:0,EUROSPORT 360-4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/TeQ7430K8@Y86K/index.m3u8
+#EXTINF:0,EUROSPORT 360-5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/GrSc3519H5@NpTq73V/index.m3u8
+#EXTINF:0,EUROSPORT 360-6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/FqTc1083b9@NrQ43V/index.m3u8
+#EXTINF:0,EUROSPORT 360-7 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/KbEq4173X2@CqP95JQ/index.m3u8
+#EXTINF:0,EUROSPORT 360-8 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/RnBTS7009Y2@VqM93K/index.m3u8
+#EXTINF:0,FRANCE 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UtXn59862G8@BqY70D/index.m3u8
+#EXTINF:0,GOLF+ HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/TzB428J6@Tq2K/index.m3u8
+#EXTINF:0,HISTOIRE TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UnRQK40773K9@EcW79K/index.m3u8
+#EXTINF:0,INFOSPORT HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/GzV843M5@Uq5M/index.m3u8
+#EXTINF:0,LA CHAINE MÉTÉO HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BsWp8237i7@Ysb6M/index.m3u8
+#EXTINF:0,LFM TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/PzCq5293B5@T1K/index.m3u8
+#EXTINF:0,M6 UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JcQuE89017J2@SuE78C/index.m3u8
+#EXTINF:0,MCM TOP HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JtQhv738J4@MstQ4N/index.m3u8
+#EXTINF:0,NOVELAS HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UdzL298@Ld3M/index.m3u8
+#EXTINF:0,OL TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BtQm719L3@PkQ5G/index.m3u8
+#EXTINF:0,OLYMPIA HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/QYn7hZ3JbZ@3iQ6M8P/index.m3u8
+#EXTINF:0,ONE TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/LtSw751N3@JrW5K/index.m3u8
+#EXTINF:0,PIWI+ HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/Qi834yE92n@Rv6U/index.m3u8
+#EXTINF:0,PLANETE+ A&E HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/JyT25@RvA53T/index.m3u8
+#EXTINF:0,PLANETE+ CI HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/ZgQ591hnQ3@UdkK7M/index.m3u8
+#EXTINF:0,PLANETE+ HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/WnyE85m3@Rq4K/index.m3u8
+#EXTINF:0,RMC SPORT 1 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/GrQm9K@793JF0C/index.m3u8
+#EXTINF:0,RMC SPORT 2 -HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/SWm7K@637bF/index.m3u8
+#EXTINF:11,RMC Sport Live 3
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/UtQf4K@728JDn3T/index.m3u8
+#EXTINF:0,RMC SPORT LIVE 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/ZkQm2Q@198JF8C/index.m3u8
+#EXTINF:0,SERIE CLUB HD - 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/BrQ286K7@B8M/index.m3u8
+#EXTINF:0,TELE MELODY HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/YeRx731JvZ6@Tq57U8P/index.m3u8
+#EXTINF:0,TF1 UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/TnZ5279Kg6@P5S/index.m3u8
+#EXTINF:0,W9 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/VzWp517M3@Tl5N/index.m3u8
+#EXTINF:0,beIN SPORT 1 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/CqLt517M3@R6N/index.m3u8
+#EXTINF:0,beIN SPORT 2 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/HzCq482@P6G/index.m3u8
+#EXTINF:0,beIN SPORT 3 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/WtZ5279Kd3@Zj5D/index.m3u8
+#EXTINF:11,20 Minutes TV
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RqJf7519K3@N5D/index.m3u8
+#EXTINF:0,7A LIMOGES HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/SpQ4507J3@9K5G/index.m3u8
+#EXTINF:0,ARTE HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/GQ5219M2@U5P/index.m3u8
+#EXTINF:0,CANAL+ LIVE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UrQlD452109H3@Fq8T/index.m3u8
+#EXTINF:0,CANAL+ LIVE 10 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/BrcS74521P6@Zg45Q/index.m3u8
+#EXTINF:0,CANAL+ LIVE 11 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/QnTZ59016K8@HqP9V/index.m3u8
+#EXTINF:0,CANAL+ LIVE 12 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/PrGbz54209p2@Qu5D/index.m3u8
+#EXTINF:0,CANAL+ LIVE 13 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/OzVQ98013j5@Eq78B/index.m3u8
+#EXTINF:0,CANAL+ LIVE 14 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/BtQkz652019U3@Fq7T/index.m3u8
+#EXTINF:0,CANAL+ LIVE 15 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RcQp890135G5@ZlQ4R/index.m3u8
+#EXTINF:0,CANAL+ LIVE 16 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/QgbZ93482E7@Qy8B/index.m3u8
+#EXTINF:0,CANAL+ LIVE 17 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/JcQT85430H9@Zm8Y7V/index.m3u8
+#EXTINF:0,CANAL+ LIVE 18 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TbQy89821H9@Eq54K/index.m3u8
+#EXTINF:0,CANAL+ LIVE 19 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RkF65219E8@WmU83C/index.m3u8
+#EXTINF:0,CANAL+ LIVE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TqKbW12019I3@GqU8v/index.m3u8
+#EXTINF:0,CANAL+ LIVE 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/NqIrQ4298T7@NdW45R/index.m3u8
+#EXTINF:0,CANAL+ LIVE 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RkVxQ74520hQ9@Mt7S/index.m3u8
+#EXTINF:0,CANAL+ LIVE 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/XqOr74520Y6@QnU8F/index.m3u8
+#EXTINF:0,CANAL+ LIVE 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/DwQPt45190J3@Bz8V/index.m3u8
+#EXTINF:0,CANAL+ LIVE 7 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/PrQBq419807I3@ZkQ4C/index.m3u8
+#EXTINF:0,CANAL+ LIVE 8 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/SuE79801Nx6@Qk85U/index.m3u8
+#EXTINF:0,CANAL+ LIVE 9 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UzxP79800H3@GqM8R/index.m3u8
+#EXTINF:0,CGTN FRANCE
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/PtQ421v5@Rx4M/index.m3u8
+#EXTINF:0,CINE+ FESTIVAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/KtQbX833207iZ9@Gq4B/index.m3u8
+#EXTINF:0,CINE+ OCS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/QBtsG814201@TLd8V/index.m3u8
+#EXTINF:0,CNEWS HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RqK5176C2@U8N/index.m3u8
+#EXTINF:0,COMEDIE+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/QlT4198T5@F6S/index.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/YzX7849J2@T6M/index.m3u8
+#EXTINF:0,CSTAR HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/CqL517O3m@U6G/index.m3u8
+#EXTINF:0,DISCOVERY HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TdBm8140P6@E4N/index.m3u8
+#EXTINF:0,DISCOVERY INVESTIGATION HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UrQ584L3@Ts5M/index.m3u8
+#EXTINF:0,DISNEY CHANNEL HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/GcQ7491K3@T5C/index.m3u8
+#EXTINF:0,DISNEY JUINIOR HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/Tq297P3@Yzn3K/index.m3u8
+#EXTINF:0,E! ENTERTAINMENT HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/DQm842P2@E5J/index.m3u8
+#EXTINF:0,EQUIDIA LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/NcQ0849f6@bS6J/index.m3u8
+#EXTINF:0,EUROSPORT 1 HD - 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TbR490Nc3@Pk6M/index.m3u8
+#EXTINF:0,EUROSPORT 2 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/EwQu8379H5@G3N/index.m3u8
+#EXTINF:0,FRANCE 2 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TdWm527L9@Y5F/index.m3u8
+#EXTINF:0,FRANCE 24 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/IySh5176K8@Y2N/index.m3u8
+#EXTINF:0,FRANCE 3 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/NyEQ218L6@U5B/index.m3u8
+#EXTINF:0,FRANCE 4 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/GrQm517L3@b8Z/index.m3u8
+#EXTINF:0,FRANCE 5 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/GzQ5176b2@T6B/index.m3u8
+#EXTINF:0,FRANCE INFO HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/U5H327G6@R5L/index.m3u8
+#EXTINF:0,GAMEONE +1 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UtL5N6846k3@Y8G/index.m3u8
+#EXTINF:0,GENERATION TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RUt7519P3@PfQ2B/index.m3u8
+#EXTINF:0,GONG MAX HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/GqY7168n8@E6A/index.m3u8
+#EXTINF:0,J-ONE HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/PeQp951n3@T5B/index.m3u8
+#EXTINF:0,LA CHAÎNE L'EQUIPE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/NyZ429P6@Rq5K/index.m3u8
+#EXTINF:0,LCP HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UQm428L6@G5b/index.m3u8
+#EXTINF:0,LMTV SARTHE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/NtQ4197P3@H3B/index.m3u8
+#EXTINF:0,MCM HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UeQ517m3@H8G/index.m3u8
+#EXTINF:0,MCM TOP HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UeQ517K6@G6V/index.m3u8
+#EXTINF:0,MELODY HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TqPn4197H3@R5X/index.m3u8
+#EXTINF:0,MEZZO LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UtS5173K9@Y8K/index.m3u8
+#EXTINF:0,MUSEUM HD 50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/JuY3@Hq0P7L/index.m3u8
+#EXTINF:0,MYZEN TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/QmU843O9@Y5G/index.m3u8
+#EXTINF:0,NATIONAL GEO HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/ZvQp8048J6@R5C/index.m3u8
+#EXTINF:0,NATIONAL GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/ExQk4190G4@T6K/index.m3u8
+#EXTINF:0,NAUTICAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/BQl419P5@Yz5M/index.m3u8
+#EXTINF:0,NICKELODEON+1 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/XqY842iI9@H6kM/index.m3u8
+#EXTINF:0,NRJ HITS HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/NrQm5179J2@U5B/index.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL HD 50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/PtBcQ7430K2@TnQ41V/index.m3u8
+#EXTINF:0,PARAMOUNT DÉCALÉ HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TdQK517M3@v8U/index.m3u8
+#EXTINF:0,PIWI+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/Bzx5186H4@d9T/index.m3u8
+#EXTINF:0,POLAR+ HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/WkTS839U@T1Z/index.m3u8
+#EXTINF:0,PUISSANCE TÉLÉVISION HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RqNT742019U3@GNt45V/index.m3u8
+#EXTINF:0,RMC DECOUVERTES HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/JpZ4518H6@S5N/index.m3u8
+#EXTINF:0,RMC STORY HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/ItQm517K6@F5B/index.m3u8
+#EXTINF:0,RTL9 HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/WPs28G2@Zn2U/index.m3u8
+#EXTINF:0,SEASON HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/VpT8254i3@H5S/index.m3u8
+#EXTINF:0,T18 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/HU6294K3@E5V/index.m3u8
+#EXTINF:0,TCM CINEMA HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/UtfQ824P6@U5J/index.m3u8
+#EXTINF:0,TF1 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/WkY8429P5@U5M/index.m3u8
+#EXTINF:0,TF1 SERIES & FILMS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/GcA7491K6@U5Q/index.m3u8
+#EXTINF:0,TFX HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/VrQl5173b3@Y8C/index.m3u8
+#EXTINF:0,TLC HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/WLt5176K4@T2E/index.m3u8
+#EXTINF:0,TMC HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/LrQ5284K6@G5v/index.m3u8
+#EXTINF:0,TRACE LATINA HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TsKp517M3@U6N/index.m3u8
+#EXTINF:0,TV 78
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/RvZ4972G5@Y5M/index.m3u8
+#EXTINF:0,TV5 MONDE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/PqJ537m0@X6E/index.m3u8
+#EXTINF:0,TÉLÉSUD HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/Czm7519i6@n5K/index.m3u8
+#EXTINF:0,TÉLÉTOON +1 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TnZ4109Y5@m6R/index.m3u8
+#EXTINF:0,TÉLÉTOON HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TQm5176P2@U9P/index.m3u8
+#EXTINF:0,USHUAIA HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/JrQ5176M3@J8F/index.m3u8
+#EXTINF:0,WARNER TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/TcQ56972x@D3N/index.m3u8
+#EXTINF:0,WARNER TV NEXT HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8781/play/BzW576P6@Ye6K/index.m3u8
+#EXTINF:0,(FRANCE) - DAZN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/RnQc45201PE6@Bz32W
+#EXTINF:0,(FRANCE) - DAZN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/VzXQ602197K5@Gq63B
+#EXTINF:0,(FRANCE) - DAZN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/VQuR90132G7@Dq95K
+#EXTINF:0,(FRANCE) - DAZN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/UrNdQ52019P9@HYz62B
+#EXTINF:0,(FRANCE) - DAZN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BrQLt6520K0@Nr82S
+#EXTINF:0,13EME RUE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/NrQv529O6@U7J
+#EXTINF:0,ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/NzW537i9@U6MT
+#EXTINF:0,AFTERFOOT TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GbZ419I6@Hn3F
+#EXTINF:0,ANGERS TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/QMoR851F8@S7A
+#EXTINF:0,ANIMAUX HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/UbS5198F1@R3V
+#EXTINF:0,AS TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BEZ749K3V@F4S
+#EXTINF:0,ASTRO CENTER TV
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/JrQv1079F5@E6Q
+#EXTINF:0,AUTOPLUS TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CzG2837U9@T1V
+#EXTINF:0,BET HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/KdW8297O2@Y6B
+#EXTINF:0,BFM 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/YqR56307J8@MzW63T
+#EXTINF:0,BFM ALSACE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CYZ5276L8@A2H
+#EXTINF:0,BFM BUSINESS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/UrQl2891K3@D2B
+#EXTINF:0,BFM D!C! ALPES SUD HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/VeQ1708H9@Q2V
+#EXTINF:0,BFM D!C! HAUTE PROVINCE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/WpY527O3N@S4G
+#EXTINF:0,BFM GRAND LILLE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GqCm5207P3@RpP8N
+#EXTINF:0,BFM GRAND LITTORAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/PcWA01843Y8@Rb6C
+#EXTINF:0,BFM LYON HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/NrW5279L0@T6D
+#EXTINF:0,BFM MARSEILLE PROVINCE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CwZ4207i5@G6X
+#EXTINF:0,BFM NICE CÔTE D'AZUR HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BrQL1835J6@D2E
+#EXTINF:0,BFM TOULON VAR HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CqP1867H2@R4K
+#EXTINF:0,BFM TV HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/WmU5109P5@Y4X
+#EXTINF:0,BIP TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/WPh2076D6@E8B
+#EXTINF:0,BOOMERANG HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BzW5096K3@L7V
+#EXTINF:0,CANAL 32 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FwA1828J7@S5H
+#EXTINF:0,CANAL J HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BfQm2084L6@U4N
+#EXTINF:0,CARTOON NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/VrQl2079K0@Y5B
+#EXTINF:0,CARTOONITO HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/TqK5084L3@J4B
+#EXTINF:0,CHERIE 25 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/SkR4180N7@T6B
+#EXTINF:0,CHEVAL TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/SPt9328T5@R4N
+#EXTINF:0,CLUBBING TV HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/HtZK527P9@S7J
+#EXTINF:0,CRIME DISTRICT HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GsB843P9@Z7N
+#EXTINF:0,DREAMWORKS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GrQm527N6@S7B3P
+#EXTINF:0,EUROCHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FsC4281J7@Z8B
+#EXTINF:0,FESTIVAL UHD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/XrZV853U7@E7B
+#EXTINF:0,FRANCE 3 NOA HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/SLT749U2@E8R
+#EXTINF:0,GAME ONE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
+#EXTINF:0,GONG HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/EvS759O6@U5J
+#EXTINF:0,GOURMAND TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/VeAC527L2@Q4N
+#EXTINF:0,GULLI HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CYeA419K6@T8B
+#EXTINF:0,LCI HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GqX2079K3@E7J
+#EXTINF:0,LE FIGARO TV -  ILE DE FRANCE Full HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/WPr5294K6D@Z2J
+#EXTINF:0,LE FIGARO TV IDF HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BfQ2071C4@Z8C
+#EXTINF:0,LUCKY JACK HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BEQH529K3@Z5G
+#EXTINF:0,LUXE TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GCn7519K3@S7H
+#EXTINF:0,M6 HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/EcW4192K8@T6V
+#EXTINF:0,M6 MUSIC HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GqLu6281K5@T2N
+#EXTINF:0,MAISON & TRAVAUX TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/KtS0873G6@Z8S
+#EXTINF:0,MANDARIN TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/SOrp2073B@T8Z
+#EXTINF:0,MANGAS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#EXTINF:0,MAURIENNE TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/QhT5970V6@B5X
+#EXTINF:0,MCS EXTRÊME HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/XZJ5294S2@T7K
+#EXTINF:0,MTV FRANCE HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/SUn4207H6@T5B
+#EXTINF:0,MTV HITS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/QmU5097K3@B4X
+#EXTINF:0,MYZEN NATURE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/XRb5768G2@F4Q
+#EXTINF:0,MYZEN TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CeA4809H7@T5B
+#EXTINF:0,NICKELODEON 4 TEEN HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CzQL529P7@E4V
+#EXTINF:0,NICKELODEON HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FwZ4209O4@U4V
+#EXTINF:0,NICKELODEON JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/TcQd428P5@Y7M
+#EXTINF:0,NOVO 19 HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/STQ1972J3@Q2K
+#EXTINF:0,PARIS PREMIERE HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/GnRQ108h6@Z2R
+#EXTINF:0,RFM TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/DQn207O6@T2B
+#EXTINF:0,SQOOL TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/ANT7491D6@S4C
+#EXTINF:0,SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BsXA5294N2@R1E
+#EXTINF:0,TAHITI NUI HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FTQ7192P5@R4N
+#EXTINF:0,TEVA HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/YqXm207P5@V2C
+#EXTINF:0,TIJI HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/EcQ2079K2@T2X
+#EXTINF:0,TL7 SAINT-ÉTIENNE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/XqR7519i8@E4G
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/NUeS527J7@E8U
+#EXTINF:0,TOP SANTÉ TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/DvZ426O9@A1B
+#EXTINF:0,TOUTE L'HISTOIRE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/ZvXU507K6@E4B
+#EXTINF:0,TRACE CARRIBEAN HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CNT792L3i0@T1F
+#EXTINF:0,TRACE URBAN HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/JtS1098K5@T4V
+#EXTINF:0,TREK HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/WRG4190J5@F2N
+#EXTINF:0,TV BREIZH HD 50@fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/STdW1086L2@E1N
+#EXTINF:0,TV PITCHOUN HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/VUTs207J6@Q8J
+#EXTINF:0,TV TOURS - VAL DE LOIRE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CUZ419H2T@V5H
+#EXTINF:0,TV7 BORDEAUX HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CnYr420P9@T8B
+#EXTINF:0,TVMONACO HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/UtQj7430P9@T5C
+#EXTINF:0,TVPI HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/WnTZ207O6@Q2N
+#EXTINF:0,TVR HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FbZ5249M8@A5V
+#EXTINF:0,TÉBÉO HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/BtSC428Y0@Z5S
+#EXTINF:0,TÉBÉSUD HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/JrQM834K2@C5B
+#EXTINF:0,TÉLÉ GRENOBLE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/JTZ4208P6@R5B
+#EXTINF:0,TÉLÉ SUD HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FKb4281J6@E8S
+#EXTINF:0,VIA MATÉLÉ HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/DUrZ527K6@Q2B
+#EXTINF:0,VIA OCCITANIE TOULOUSE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/NtR4273L5@R8V
+#EXTINF:0,WÉO HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/CZB7519K6@R4N
+#EXTINF:0,WÉO PICARDIE HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/QLu5271J6@G5B
+#EXTINF:0,ZOUK TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/FzW7519i2@T4V
+#EXTINF:0,i24 NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/ExQ207N3b@Y2V

@@ -103,10 +103,10 @@ http://178.170.42.126/CANALPLUS/index.m3u8
 http://163.172.40.244/nm/link?channel=463
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,Canal+ Sport
-http://163.172.40.244/nm/link?channel=122
+http://178.33.239.54:8080/541/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,Canal+ Sport 360
-http://163.172.40.244/nm/link?channel=464
+http://178.33.239.54:8080/700/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,Canal+ Docs
 http://178.170.42.126/CANALDOCS/index.m3u8
@@ -159,7 +159,7 @@ http://178.170.42.126/CRIMEDISTRICT/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" ,Canal+ Kids
 http://178.170.42.126/CANALKIDS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="Canal" ,TiJi
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="Canal" ,TiJi HD
 http://178.170.42.126/TIJI/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" group-title="Canal" ,Teletoon
@@ -171,8 +171,11 @@ http://178.170.42.126/WARNERTVNEXT/index.m3u8
 #EXTINF:-1 group-title="Canal" ,PIWI 
 http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,TIJI HD
+#EXTINF:-1 group-title="Canal" ,TiJi
 http://213.246.39.14/TIJI_HD/index.m3u8
+
+#EXTINF:-1 group-title="Canal",nickelodeon junior
+http://178.33.239.54:8080/702/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="Canal" ,TCM Cinéma
 http://178.170.42.126/TCMCINEMA/index.m3u8
@@ -188,6 +191,29 @@ http://5.9.119.146:8883/beinfr1/index.m3u8
 
 #EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Canal",beIN SPORTS 2 
 http://5.9.119.146:8883/beinfr2/index.m3u8
+
+#EXTINF:-1 group-title="Canal",Canal+ Sport 2
+http://178.33.239.54:8080/544/index.m3u8
+#EXTINF:-1 group-title="Canal",Canal+ Sport 3
+http://178.33.239.54:8080/545/index.m3u8
+
+#EXTINF:-1 group-title="Canal",RMC Sport 1
+http://5.9.119.146:8883/rmc1/index.m3u8
+
+#EXTINF:-1 group-title="Canal",RMC Sport 1
+http://178.33.239.54:8080/524/index.m3u8
+
+#EXTINF:-1 group-title="Canal",13ème Rue
+http://178.33.239.54:8080/316/index.m3u8
+#EXTINF:-1 group-title="Canal",téva
+http://178.33.239.54:8080/317/index.m3u8
+
+
+
+
+
+
+
 
 
 

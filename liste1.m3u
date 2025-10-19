@@ -99,8 +99,8 @@ http://178.170.42.126/CANALSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
 http://178.170.42.126/CANALPLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,Canal+ Foot
-http://163.172.40.244/nm/link?channel=463
+#EXTINF:-1 group-title="Canal" ,Canal+ Premier League
+http://178.33.239.54:8080/542/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,Canal+ Sport
 http://178.33.239.54:8080/541/index.m3u8
@@ -207,6 +207,7 @@ http://178.33.239.54:8080/524/index.m3u8
 http://178.33.239.54:8080/316/index.m3u8
 #EXTINF:-1 group-title="Canal",téva
 http://178.33.239.54:8080/317/index.m3u8
+
 
 
 

@@ -1,229 +1,214 @@
 #EXTM3U     
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png" group-title="Canal" ,TF1
-http://213.246.39.14/TF1HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png" group-title="Canal" , France 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" , France 3
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png" group-title="Canal" , France 4
-https://tvradiozap.eu/tools/ft-m3u8.php/france4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png" group-title="Canal" , France 5
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png" group-title="Canal" ,M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+ 
-http://178.170.42.126/CANALPLUS/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png" group-title="Canal" ,W9
-http://213.246.39.14/W9_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="Canal" ,TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png" group-title="Canal" ,TMC
 http://213.246.39.14/TMC_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="Canal" ,TFX
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png" group-title="Canal" ,TFX
 http://213.246.39.14/TFX_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static.teleboy.ch/shared/stations/367/icon320_light.png?v2023_48_0" group-title="Canal" ,6ter
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png" group-title="Canal" ,Chérie 25
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" group-title="Canal" ,AB1
+http://151.80.18.177:86/AB1/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="Canal" ,RTL9
+http://151.80.18.177:86/RTL9/index.m3u8
+
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://i81.servimg.com/u/f81/19/39/09/46/img_4810.jpg" group-title="Canal" ,RMC LIFe
 https://tvradiozap.eu/646
 
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="Canal",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="Canal",TF1 SÉERIES FILMS
 https://tvradiozap.eu/649
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,Warner TV 
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-145.png" group-title="Canal" ,PARIS PREMIÈRE
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" group-title="Canal" ,TV Breizh
+http://5.180.164.5:9981/stream/channelid/583291387?profile=Customer
+
+#EXTINF:-1 tvg-id="13eRue.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2.png" group-title="Canal",13EME RUE
+http://178.33.239.54:8080/316/index.m3u8
+
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-191.png" group-title="Canal",téva
+http://151.80.18.177:86/Teva_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,WARNER TV 
 http://178.170.42.126/WARNER/index.m3u8
 
-#EXTINF:-1 group-title="Canal" ,Comedy Central
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-54.png" group-title="Canal" ,Comédie+
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792" group-title="Canal" ,COMEDY CENTRAL
 http://213.246.39.14/COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,ARTE
-https://tvradiozap.eu/640
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-128.png" group-title="Canal" ,MTV
+http://99.27.51.147/MTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1402.png" group-title="Canal" ,RMC Story
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png" group-title="Canal" ,arte
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1402.png" group-title="Canal" ,RMC Story
 https://tvradiozap.eu/644
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Canal",RMC Mecanic
-https://jmp2.uk/sam-FR300003ZB.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,ACTION
+http://99.27.51.147/ACTION/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png" group-title="Canal" ,RMC Découverte
-http://178.170.42.126/RMCDECOUVERTE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1562.png" group-title="Canal" ,Paramount Channel
-http://178.170.42.126/PARAMOUNT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,Action
-http://178.170.42.126/ACTION/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/polar-plus-fr.png" group-title="Canal" ,Polar+
-http://178.170.42.126/POLAR/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-ocs-fr.png" group-title="Canal" ,Ciné+ OCS
-http://178.170.42.126/CINEPREMIER/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,Ciné+ frisson
-http://178.170.42.126/CINEPLUSFRISSON/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-emotion-fr.png" group-title="Canal" ,Ciné+ émotion
-http://178.170.42.126/CINEPLUSEMOTION/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-festival-fr.png" group-title="Canal" ,Ciné+ festival
-http://178.170.42.126/CINEPLUSCLUB/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-classic-fr.png" group-title="Canal" ,Ciné+ classic
-http://178.170.42.126/CINEPLUSCLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-family-fr.png" group-title="Canal" ,Ciné+ family
-http://178.170.42.126/CINEPLUSFAMIZ/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="Canal" ,Canal+ Box Office
-http://178.170.42.126/CANALBOXOFFICE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" group-title="Canal" ,Canal+ Grand Écran
-http://178.170.42.126/CANALGRANDECRAN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="Canal" ,Canal+ Cinéma(s)
-http://178.170.42.126/CANALCINEMA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" ,Canal+ Séries
-http://178.170.42.126/CANALSERIES/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,Canal+
-http://178.170.42.126/CANALPLUS/index.m3u8
-
-#EXTINF:-1 group-title="Canal" ,Canal+ Premier League
-http://178.33.239.54:8080/542/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,Canal+ Sport
-http://178.33.239.54:8080/541/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,Canal+ Sport 360
-http://178.33.239.54:8080/700/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,Canal+ Docs
-http://178.170.42.126/CANALDOCS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="Canal" ,Planète+ 
-http://178.170.42.126/PLANETEPLUS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" group-title="Canal" ,Planète+ Crime
-http://178.170.42.126/PLANETEPLUSCI/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-402.png" group-title="Canal" ,Planète+ Aventure
-http://178.170.42.126/PLANETEPLUSAE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,National Geographic Channel
-http://178.170.42.126/NATGEO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" group-title="Canal" ,Nat Geo Wild
-http://178.170.42.126/NATGEOWILD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="Canal" ,Discovery
-http://178.170.42.126/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tlc-fr.png" group-title="Canal" ,Discovery TLC
-http://178.170.42.126/DISCOVERYSCIENCE/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Canal" ,Discovery Investigation
-http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" group-title="Canal" ,Trek
-http://178.170.42.126/TREK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Canal" ,Animaux
-http://178.170.42.126/ANIMAUX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Canal" ,Science & Vie
-http://178.170.42.126/SCIENCEVIETV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/ushuaia-tv-fr.png" group-title="Canal" ,Ushuaia
-http://178.170.42.126/USHUAIATV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Canal" ,Toute L'histoire
-http://178.170.42.126/TOUTELHISTOIRE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" group-title="Canal" ,Histoire
-http://178.170.42.126/HISTOIRE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" group-title="Canal" ,Crime District
-http://178.170.42.126/CRIMEDISTRICT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" ,Canal+ Kids
-http://178.170.42.126/CANALKIDS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="Canal" ,TiJi HD
-http://178.170.42.126/TIJI/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" group-title="Canal" ,Teletoon
-http://178.170.42.126/TELETOON/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/warner-tv-next-fr.png" group-title="Canal" ,Warner TV next
-http://178.170.42.126/WARNERTVNEXT/index.m3u8
-
-#EXTINF:-1 group-title="Canal" ,PIWI 
-http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
-
-#EXTINF:-1 group-title="Canal" ,TiJi
-http://213.246.39.14/TIJI_HD/index.m3u8
-
-#EXTINF:-1 group-title="Canal",nickelodeon junior
-http://178.33.239.54:8080/702/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" group-title="Canal" ,TCM Cinéma
-http://178.170.42.126/TCMCINEMA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="Canal" ,InfoSport+
-http://178.170.42.126/INFOSPORT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://download.vikidia.org/vikidia/fr/images/c/c3/Langfr-800px-L%27Équipe_wordmark.svg.png" group-title="Canal",L'Équipe 
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
-
-#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Canal",beIN SPORTS 1
-http://5.9.119.146:8883/beinfr1/index.m3u8
-
-#EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Canal",beIN SPORTS 2 
-http://5.9.119.146:8883/beinfr2/index.m3u8
-
-#EXTINF:-1 group-title="Canal",Canal+ Sport 2
-http://178.33.239.54:8080/544/index.m3u8
-#EXTINF:-1 group-title="Canal",Canal+ Sport 3
-http://178.33.239.54:8080/545/index.m3u8
-
-#EXTINF:-1 group-title="Canal",RMC Sport 1
-http://5.9.119.146:8883/rmc1/index.m3u8
-
-#EXTINF:-1 group-title="Canal",RMC Sport 1
-http://178.33.239.54:8080/524/index.m3u8
-
-#EXTINF:-1 group-title="Canal",13ème Rue
-http://178.33.239.54:8080/316/index.m3u8
-#EXTINF:-1 group-title="Canal",téva
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/polar-plus-fr.png" group-title="Canal" ,POLAR+
 http://178.33.239.54:8080/317/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-ocs-fr.png" group-title="Canal" ,CINÉ+ OCS
+http://45.90.106.7:8781/play/QBtsG814201@TLd8V/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,CINÉ+ frisson
+http://99.27.51.147/CineFrisson/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-emotion-fr.png" group-title="Canal" ,CINÉ+ émotion
+http://45.90.106.7:8779/play/UrQmMt5017j7M@E4VQ23C/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-festival-fr.png" group-title="Canal" ,CINÉ+ festival
+http://45.90.106.7:8779/play/UrQj5107m3@RcWp92N/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-classic-fr.png" group-title="Canal" ,CINÉ+ classic
+http://99.27.51.147/CineClassic/index.m3u8
 
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-family-fr.png" group-title="Canal" ,CINÉ+ family
+http://45.90.106.7:8779/play/TRQ283KW3@6PrG5M/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="Canal" ,CANAL+ BOX OFFICE
+http://45.90.106.7:8779/play/PqQiE8624K6@EnS72C/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" group-title="Canal" ,CANAL+ GRAND ÉCRAN
+http://45.90.106.7:8779/play/TbQ791H39@Y6K/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="Canal" ,CANAL+ CINÉMA(S)
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" ,CANAL+ SÉRIES
+http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,CANAL+
+http://151.80.18.177:86/Canal+_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,CANAL+ FOOT
+http://45.90.106.7:8779/play/UeVQL680193K2@Tq54J/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-premier-league-fr.png" group-title="Canal" ,CANAL+ PREMIER LEAGUE
+http://178.33.239.54:8080/542/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,CANAL+ SPORT
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,CANAL+ SPORT 360
+http://178.33.239.54:8080/700/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,CANAL+ DOCS
+http://45.90.106.7:8779/play/GtQUr4190K7@ZvW94M/index.m3u8
 
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="Canal" ,PLANÈTE+ 
+http://45.90.106.7:8779/play/WnyE85m3@Rq4K/index.m3u8
 
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" group-title="Canal" ,PLANÈTE+ CRIME
+http://45.90.106.7:8779/play/ZgQ591hnQ3@UdkK7M/index.m3u8
 
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-402.png" group-title="Canal" ,PLANÈTE+ AVENTURE
+http://45.90.106.7:8779/play/JyT25@RvA53T/index.m3u8
 
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,NATIONAL GEOGRAPHIC
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" group-title="Canal" ,NATIONAL GEOGRAPHIC WILD
+http://45.90.106.7:8781/play/ExQk4190G4@T6K/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="Canal" ,Discovery CHANNEL
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ID100x100.png" group-title="Canal" ,INVESTIGATION DISCOVERY 
+http://45.90.106.7:8781/play/UrQ584L3@Ts5M/index.m3u8
+
+#EXTINF:-1 tvg-id="Trek.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" group-title="Canal" ,TReK
+http://45.90.106.7:9790/play/WRG4190J5@F2N
+
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Canal" ,ANIMAUX
+http://45.90.106.7:9790/play/UbS5198F1@R3V
+
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-63.png" group-title="Canal" ,SCIENCE&VIE TV
+http://178.170.42.126/SCIENCEVIETV/index.m3u8
+
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-451.png" group-title="Canal" ,Ushuaïa TV
+http://5.180.164.5:9981/stream/channelid/231614852?profile=Customer
+
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Canal" ,TOUTE L'HISTOIRE
+http://45.90.106.7:9790/play/ZvXU507K6@E4B
+
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" group-title="Canal" ,HISTOIRE TV
+http://151.80.18.177:86/Histoire/index.m3u8
+
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" group-title="Canal" ,CRIME DISTRICT
+http://45.90.106.7:8779/play/NtQbc483K7@UzN6W/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" ,CANAL+ KIDS
+http://45.90.106.7:8779/play/DqK8427L3@T5H/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-58.png" group-title="Canal" ,Disney CHANNEL
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2040.png" group-title="Canal" ,WARNER TV next
+http://178.170.42.126/WARNERTVNEXT/index.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://static.teleboy.ch/shared/stations/270/icon320_light.png?v2023_48_0" group-title="Canal" ,gulli
+http://99.27.51.147/Gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="TIJI.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" group-title="Canal" ,Tiji
+http://213.246.39.14/TIJI_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-344.png" group-title="Canal" ,Piwi+ 
+http://213.246.39.14/PIWI_PLUS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-300.png" group-title="Canal" ,Disney Jr.
+http://178.33.239.54:8080/702/index.m3u8
+
+#EXTINF:-1 tvg-id="	InfosportPlus.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" group-title="Canal" ,INFOSPORT+
+http://99.27.51.147/Infosport/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Canal",beIN SPORTS 1
+http://5.9.119.146:8883/beinfr1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Canal",beIN SPORTS 2 
+http://5.9.119.146:8883/beinfr2/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport2.af" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/180625/canal-ouah/CHN43FB/CplusSport_1_FN" group-title="Canal",CANAL+ Sport 2
+http://178.33.239.54:8080/544/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport3.af" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/180149/canal-ouah/CHN43FB/CplusSport_3_FN" group-title="Canal",CANAL+ Sport 3
+http://178.33.239.54:8080/545/index.m3u8
+
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" group-title="Canal",RMC SPORT 1
+http://5.9.119.146:8883/rmc1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal" ,Movies
+http://178.33.239.54:8080/381/index.m3u8
+
+#EXTINF:-1 group-title="Canal" ,TV 5
+http://185.234.111.64/TV5
+
+#EXTINF:-1 group-title="Canal" ,TV 4
+http://185.234.111.64/TV4
+
+#EXTINF:0 group-title="Canal" ,TV 4
+http://185.234.111.64:8000/play/a02j
+
+#EXTINF:0 group-title="Canal" ,TV 5
+http://185.234.111.64:8000/play/a02k
+
+#EXTINF:0 group-title="Canal" ,TV 6 HD
+http://185.234.111.64:8000/play/a02l
+
+#EXTINF:0 group-title="Canal" ,TV7 ELMAARIFA
+http://185.234.111.64:8000/play/a02m
+
+#EXTINF:0 group-title="Canal" ,TV8 EDHAKIRA
+http://185.234.111.64:8000/play/a02n
+
+#EXTINF:0 group-title="Canal" ,Samira TV
+http://185.234.111.64:8000/play/a0a3

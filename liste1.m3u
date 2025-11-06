@@ -25,10 +25,10 @@ http://151.80.18.177:86/RTL9/index.m3u8
 http://151.80.18.177:86/AB1/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-191.png" group-title="Canal",téva
-http://45.90.106.7:9790/play/YqXm207P5@V2C
+http://151.80.18.177:86/Teva_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="MTV.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-128.png" group-title="Canal" ,MTV
-http://45.90.106.7:9790/play/SUn4207H6@T5B
+http://99.27.51.147/MTV/index.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,ACTION
 http://99.27.51.147/ACTION/index.m3u8
@@ -64,7 +64,7 @@ http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,CANAL+
-http://45.90.106.7:8779/play/QLt427H3@Ex5Q/index.m3u8
+http://151.80.18.177:86/Canal+_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,CANAL+ FOOT
 http://45.90.106.7:8779/play/UeVQL680193K2@Tq54J/index.m3u8
@@ -159,30 +159,25 @@ http://178.33.239.54:8080/545/index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="RMCSport1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" group-title="Canal",RMC SPORT 1
 http://5.9.119.146:8883/rmc1/index.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-id="" tvg-logo="" group-title="Canal" ,Movies
-http://178.33.239.54:8080/381/index.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,_CANAL+ SPORT
+http://178.33.239.54:8080/541/index.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="Canal" ,TV 4 TAMAZIGHT
-http://185.234.111.64/TV4
+#EXTINF:-1 tvg-chno="56" tvg-id="CanalPlusSport360.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3504.png" group-title="Canal" ,_CANAL+ SPORT 360
+http://178.33.239.54:8080/700/index.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4" group-title="Canal" ,TV 5 CORAN
-http://185.234.111.64/TV5
+#EXTINF:-1 tvg-chno="57" tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,_CANAL+ SPORT_
+http://178.33.239.54:8080/546/index.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH" group-title="Canal" ,TV 4 TAMAZIGHT
-http://185.234.111.64:8000/play/a02j
-
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4" group-title="Canal" ,TV 5 CORAN
-http://185.234.111.64:8000/play/a02k
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW" group-title="Canal" ,TV 6 ECHABABIA
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW" group-title="Canal" ,TV 6 ECHABABIA
 http://185.234.111.64:8000/play/a02l
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI" group-title="Canal" ,TV7 ELMAARIFA
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI" group-title="Canal" ,TV7 ELMAARIFA
 http://185.234.111.64:8000/play/a02m
 
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu" group-title="Canal" ,TV8 EDHAKIRA
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu" group-title="Canal" ,TV8 EDHAKIRA
 http://185.234.111.64:8000/play/a02n
 
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/langfr-225px-Samira_TV_logo.svg.png" group-title="Canal" ,Samira TV
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/langfr-225px-Samira_TV_logo.svg.png" group-title="Canal" ,Samira TV
 http://185.234.111.64:8000/play/a0a3
+
 

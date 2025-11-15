@@ -116,7 +116,7 @@ https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-dash/cartoonnetw
 #EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png" group-title="TNT.TV" ,Canal J
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-dash/canalj.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png"" group-title="TNT.TV" ,CANAL ALGÉRIE
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png"" group-title="TNT.TV" ,CANAL ALGÉRIE 
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.m3u8
 
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnbc.png"" group-title="TNT.TV" ,CNBC

@@ -148,7 +148,7 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="TNT.TV" ,CARTOON NETWORK 
+#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="TNT.TV" ,CARTOON NETWORK
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -156,51 +156,51 @@ https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetw
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png"" group-title="TNT.TV" ,CANAL ALGÉRIE
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png" group-title="TNT.TV" ,CANAL ALGÉRIE
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnbc.png"" group-title="TNT.TV" ,CNBC
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" group-title="TNT.TV" ,CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/film4.png"" group-title="TNT.TV" ,FILM 4 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/film4.png" group-title="TNT.TV" ,FILM 4 
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc1.png"" group-title="TNT.TV" ,BBC ONE 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="TNT.TV" ,BBC ONE 
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-HLS8/bbc1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc2.png"" group-title="TNT.TV" ,BBC TWO  
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" group-title="TNT.TV" ,BBC TWO  
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png"" group-title="TNT.TV" ,BBC three
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png" group-title="TNT.TV" ,BBC three
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png"" group-title="TNT.TV" ,BBC FOUR 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png" group-title="TNT.TV" ,BBC FOUR 
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv1.png"" group-title="TNT.TV" ,itv1 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv1.png" group-title="TNT.TV" ,itv1 
 https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv2.png"" group-title="TNT.TV" ,itv2 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv2.png" group-title="TNT.TV" ,itv2 
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv3.png"" group-title="TNT.TV" ,itv3 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv3.png" group-title="TNT.TV" ,itv3 
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv4.png"" group-title="TNT.TV" ,itv4 
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv4.png" group-title="TNT.TV" ,itv4 
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png"" group-title="TNT.TV" ,ZDF  
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png" group-title="TNT.TV" ,ZDF  
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36

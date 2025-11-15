@@ -110,7 +110,7 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.m3u8
 #EXTINF:-1 tvg-id="tcm.fr" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" group-title="TNT.TV" ,TCM CINEMA
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.m3u8
 
-#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="TNT.TV" ,CARTOON NETWORK 
+#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="TNT.TV" ,cartoon network
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-dash/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png" group-title="TNT.TV" ,Canal J
@@ -149,7 +149,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv4.png"" group-title="TNT.TV" ,itv4 
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png"" group-title="TNT.TV" ,ZDF  
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png"" group-title="TNT.TV" ,ZDF
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png"" group-title="TNT.TV" ,DAS ERSTE  

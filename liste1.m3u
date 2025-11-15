@@ -180,4 +180,35 @@ http://185.234.111.64:8000/play/a02n
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/langfr-225px-Samira_TV_logo.svg.png" group-title="Canal" ,Samira TV
 http://185.234.111.64:8000/play/a0a3
 
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" group-title="Canal" ,AB3
+http://41.205.93.154/AB3/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1960.png" group-title="Canal" ,BET
+http://41.205.93.154/BET/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="Canal" ,_Discovery CHANNEL
+http://41.205.93.154/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="MCM.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-121.png" group-title="Canal" ,MCM
+http://41.205.93.154/MCM/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-115.png" group-title="Canal" ,_RTL9
+http://41.205.93.154/RTL9/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo=https://focus.telerama.fr/500x500/0000/00/01/clear-479.png" group-title="Canal" ,SYFY HD
+http://41.205.93.154/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" group-title="Canal" ,_AB1
+http://41.205.93.154/AB1/index.m3u8
+
+#EXTINF:-1 tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,_ACTION
+http://41.205.93.154/ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Canal" ,_ANIMAUX
+http://41.205.93.154/ANIMAUX/index.m3u8
+
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-145.png" group-title="Canal" ,_PARIS PREMIÈRE
+http://41.205.93.154/PARISPREMIERE/index.m3u8
+
+
 

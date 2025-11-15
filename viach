@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="TNT.TV" ,RTS 1 
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.m3u8
 
@@ -110,7 +110,7 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.m3u8
 #EXTINF:-1 tvg-id="tcm.fr" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" group-title="TNT.TV" ,TCM CINEMA
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.m3u8
 
-#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="TNT.TV" ,cartoon network
+#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="TNT.TV" ,cartoon network 
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-dash/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png" group-title="TNT.TV" ,Canal J

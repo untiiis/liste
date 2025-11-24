@@ -210,5 +210,32 @@ http://41.205.93.154/ANIMAUX/index.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-145.png" group-title="Canal" ,_PARIS PREMIÈRE
 http://41.205.93.154/PARISPREMIERE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="Canal" ,beIN Sports MENA 8
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/bein8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="Canal" ,beIN Sports MENA 9
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/bein9/index.m3u8
+
+
+#EXTINF:0 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp" group-title="Canal" ,Shahid Sport
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/shahid-sport/index.m3u8
+
+#EXTINF:11 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="Canal" ,SHASHA
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/shasha1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,sky sport arena
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/skysportarena/index.m3u8
+
+#EXTINF:0 tvg-logo=https://www.lyngsat.com/logo/tv/ss/sky-sport-calcio-it.png" group-title="Canal" ,sky sport calcio
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/skysportcalcio/index.m3u8
+
+#EXTINF:11 tvg-logo=https://www.lyngsat.com/logo/tv/ss/sky-sport-uno-it.png" group-title="Canal" ,sky sport uno
+#EXTVLCOPT:network-caching=1000
+http://167.235.89.164:8000/play/skysportuno/index.m3u8
 

@@ -264,6 +264,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa@SD" group-title="Canal" ,Alkass Three (720p)
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa@SD group-title="Canal" ,Alkass Two (720p)
+#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" group-title="Canal" ,Alkass Two (720p)
 https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
+
 

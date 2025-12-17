@@ -1,8 +1,5 @@
 #EXTM3U     
 
-#EXTINF:-1 tvg-chno="1" tvg-id="WarnerTV.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2334.png" group-title="Canal" ,WARNER TV 
-http://45.90.106.7:8781/play/TcQ56972x@D3N/index.m3u8
-
 #EXTINF:-1 tvg-chno="2" tvg-id="ComedyCentral.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792" group-title="Canal" ,COMEDY CENTRAL
 http://213.246.39.14/COMEDY_CENTRAL/index.m3u8
 
@@ -33,41 +30,11 @@ http://99.27.51.147/MTV/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" group-title="Canal" ,ACTION
 http://99.27.51.147/ACTION/index.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="CinePlusPremier.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-ocs-fr.png" group-title="Canal" ,CINÉ+ OCS
-http://45.90.106.7:8781/play/QBtsG814201@TLd8V/index.m3u8
-
-#EXTINF:-1 tvg-chno="14" tvg-id="CinePlusFrisson.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-frisson-fr.png" group-title="Canal" ,CINÉ+ frisson
-http://45.90.106.7:8779/play/QniY924J@gZ3B/index.m3u8
-
-#EXTINF:-1 tvg-chno="15" tvg-id="CinePlusEmotion.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-emotion-fr.png" group-title="Canal" ,CINÉ+ émotion
-http://45.90.106.7:8779/play/UrQmMt5017j7M@E4VQ23C/index.m3u8
-
-#EXTINF:-1 tvg-chno="16" tvg-id="CinePlusClub.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-festival-fr.png" group-title="Canal" ,CINÉ+ festival
-http://45.90.106.7:8779/play/UrQj5107m3@RcWp92N/index.m3u8
-
-#EXTINF:-1 tvg-chno="17" tvg-id="CinePlusClassic.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-classic-fr.png" group-title="Canal" ,CINÉ+ classic
-http://45.90.106.7:8779/play/EqKtZ4019O6@TbE73B/index.m3u8
-
-#EXTINF:-1 tvg-chno="18" tvg-id="CinePlusFamiz.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-family-fr.png" group-title="Canal" ,CINÉ+ family
-http://45.90.106.7:8779/play/TRQ283KW3@6PrG5M/index.m3u8
-
-#EXTINF:-1 tvg-chno="19" tvg-id="CanalPlusGrandEcran.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" group-title="Canal" ,CANAL+ GRAND ÉCRAN
-http://45.90.106.7:8779/play/TbQ791H39@Y6K/index.m3u8
-
-#EXTINF:-1 tvg-chno="20" tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" group-title="Canal" ,CANAL+ BOX OFFICE
-http://45.90.106.7:8779/play/PqQiE8624K6@EnS72C/index.m3u8
-
 #EXTINF:-1 tvg-chno="21" tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-33.png" group-title="Canal" ,CANAL+ CINÉMA(S)
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="CanalPlusSeries.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1563.png" group-title="Canal" ,CANAL+ SÉRIES
-http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8
-
 #EXTINF:-1 tvg-chno="23" tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png" group-title="Canal" ,CANAL+
 http://151.80.18.177:86/Canal+_HD/index.m3u8
-
-#EXTINF:-1 tvg-chno="24" tvg-id="CanalPlusFoot.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FB/CHN43FB_19_29082023" group-title="Canal" ,CANAL+ FOOT
-http://45.90.106.7:8779/play/UeVQL680193K2@Tq54J/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="CanalPlusPremierLeague.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-premier-league-fr.png" group-title="Canal" ,CANAL+ PREMIER LEAGUE
 http://178.33.239.54:8080/542/index.m3u8
@@ -78,26 +45,8 @@ http://178.33.239.54:8080/700/index.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="CanalPlusSport.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-35.png" group-title="Canal" ,CANAL+ SPORT
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-id="CanalPlusDocs.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" group-title="Canal" ,CANAL+ DOCS
-http://45.90.106.7:8779/play/GtQUr4190K7@ZvW94M/index.m3u8
-
-#EXTINF:-1 tvg-chno="29" tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" group-title="Canal" ,PLANÈTE+ 
-http://45.90.106.7:8779/play/WnyE85m3@Rq4K/index.m3u8
-
-#EXTINF:-1 tvg-chno="30" tvg-id="PLANETEJustice.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" group-title="Canal" ,PLANÈTE+ CRIME
-http://45.90.106.7:8779/play/ZgQ591hnQ3@UdkK7M/index.m3u8
-
-#EXTINF:-1 tvg-chno="31" tvg-id="PlaneteAction.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-402.png" group-title="Canal" ,PLANÈTE+ AVENTURE
-http://45.90.106.7:8779/play/JyT25@RvA53T/index.m3u8
-
 #EXTINF:-1 tvg-chno="32" tvg-id="NationalGeographic.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" group-title="Canal" ,NATIONAL GEOGRAPHIC
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-
-#EXTINF:-1 tvg-chno="33" tvg-id="NatGeoWild.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" group-title="Canal" ,NATIONAL GEOGRAPHIC WILD
-http://45.90.106.7:8781/play/ExQk4190G4@T6K/index.m3u8
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Animaux.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" group-title="Canal" ,ANIMAUX
-http://45.90.106.7:9790/play/UbS5198F1@R3V
 
 #EXTINF:-1 tvg-chno="35" tvg-id="UshuaiaTV.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-451.png" group-title="Canal" ,Ushuaïa TV
 http://5.180.164.5:9981/stream/channelid/231614852?profile=Customer
@@ -108,26 +57,8 @@ http://178.170.42.126/SCIENCEVIETV/index.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="DiscoveryChannel.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-400.png" group-title="Canal" ,Discovery CHANNEL
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="DiscoveryInvestigation.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ID100x100.png" group-title="Canal" ,INVESTIGATION DISCOVERY 
-http://45.90.106.7:8781/play/UrQ584L3@Ts5M/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="TouteHistoire.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-7.png" group-title="Canal" ,TOUTE L'HISTOIRE
-http://45.90.106.7:9790/play/ZvXU507K6@E4B
-
 #EXTINF:-1 tvg-chno="40" tvg-id="Histoire.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" group-title="Canal" ,HISTOIRE TV
 http://151.80.18.177:86/Histoire/index.m3u8
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Trek.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" group-title="Canal" ,TReK
-http://45.90.106.7:9790/play/WRG4190J5@F2N
-
-#EXTINF:-1 tvg-chno="42" tvg-id="CrimeDistrict.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" group-title="Canal" ,CRIME DISTRICT
-http://45.90.106.7:8779/play/NtQbc483K7@UzN6W/index.m3u8
-
-#EXTINF:-1 tvg-chno="43" tvg-id="CanalPlusKIDS.fr" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" group-title="Canal" ,CANAL+ KIDS
-http://45.90.106.7:8779/play/DqK8427L3@T5H/index.m3u8
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Toonami.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-2040.png" group-title="Canal" ,WARNER TV next
-http://45.90.106.7:8781/play/BzW576P6@Ye6K/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-id="DisneyChannel.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-58.png" group-title="Canal" ,Disney CHANNEL
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
@@ -228,12 +159,6 @@ http://gr.seetv.cc/play/1103/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS4MAX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="Canal",_beIN SPORTS 4
 http://gr.seetv.cc/play/1104/FB4F94DA00C3BE0/video.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,lien tf1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tf1
-
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,lien tf1 mpd
-https://cdn.ott-na-live-rti.cdnfr.orange.fr/QS9dn_vxEKMudUHMEdOOCw1ox2o/CDN_1/2/1766001791/OTV-068657b0-42be-4fbf-8482-ace5d46e8bee/bpk-tv/livetv_tf1_ctv/DASH-CE/index.mpd
-
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,sky sport arena
 #EXTVLCOPT:network-caching=1000
 http://167.235.89.164:8000/play/skysportarena/index.m3u8
@@ -251,17 +176,5 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 
 #EXTINF:11 tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_2_1280x720.png" group-title="Canal" ,DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-id="DubaiSports1.ae@SD" tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_1_1280x720.png" group-title="Canal" ,Dubai Sports 1 (1080p)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae@SD" tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_2_1280x720.png" group-title="Canal" ,Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="AlkassFour.qa@HD" tvg-logo="https://shoof.alkass.net/assets/images/one.png" group-title="Canal" ,Alkass Four HD (720p)
-https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/two.png" group-title="Canal" ,Alkass Two (720p)
-https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/three.png" group-title="Canal" ,Alkass Three (720p)
-https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 
 

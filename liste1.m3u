@@ -228,14 +228,11 @@ http://gr.seetv.cc/play/1103/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS4MAX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="Canal",_beIN SPORTS 4
 http://gr.seetv.cc/play/1104/FB4F94DA00C3BE0/video.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,lien tf1
+https://tv.orange.fr/lecture/en-direct/chaines/livetv_tf1
 
-#EXTINF:0 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png?height=178&width=auto&croppingPoint=mc&type=webp" group-title="Canal" ,Shahid Sport
-#EXTVLCOPT:network-caching=1000
-http://167.235.89.164:8000/play/shahid-sport/index.m3u8
-
-#EXTINF:11 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="Canal" ,SHASHA
-#EXTVLCOPT:network-caching=1000
-http://167.235.89.164:8000/play/shasha1/index.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,lien tf1 mpd
+https://cdn.ott-na-live-rti.cdnfr.orange.fr/QS9dn_vxEKMudUHMEdOOCw1ox2o/CDN_1/2/1766001791/OTV-068657b0-42be-4fbf-8482-ace5d46e8bee/bpk-tv/livetv_tf1_ctv/DASH-CE/index.mpd
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="Canal" ,sky sport arena
 #EXTVLCOPT:network-caching=1000
@@ -255,16 +252,16 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 #EXTINF:11 tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_2_1280x720.png" group-title="Canal" ,DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="DubaiSports1.ae@SD" group-title="Canal" ,Dubai Sports 1 (1080p)
+#EXTINF:-1 tvg-id="DubaiSports1.ae@SD" tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_1_1280x720.png" group-title="Canal" ,Dubai Sports 1 (1080p)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae@SD" group-title="Canal" ,Dubai Sports 2 (720p)
+#EXTINF:-1 tvg-id="DubaiSports2.ae@SD" tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_2_1280x720.png" group-title="Canal" ,Dubai Sports 2 (720p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AlkassFour.qa@HD" group-title="Canal" ,Alkass Four HD (720p)
+#EXTINF:-1 tvg-id="AlkassFour.qa@HD" tvg-logo="https://shoof.alkass.net/assets/images/one.png" group-title="Canal" ,Alkass Four HD (720p)
 https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa@SD" group-title="Canal" ,Alkass Three (720p)
-https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" group-title="Canal" ,Alkass Two (720p)
+#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/two.png" group-title="Canal" ,Alkass Two (720p)
 https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/three.png" group-title="Canal" ,Alkass Three (720p)
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 
 

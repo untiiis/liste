@@ -119,6 +119,10 @@ http://167.235.89.164:8000/play/bein8/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://167.235.89.164:8000/play/bein9/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png" group-title="Canal" ,EUROSPORT 1
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png" group-title="Canal" ,EUROSPORT 2
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Canal",beIN SPORTS 1
 http://gr.seetv.cc/play/1101/FB4F94DA00C3BE0/video.m3u8
@@ -146,6 +150,7 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 
 #EXTINF:11 tvg-logo="https://dmi-vod-prod.akamaized.net/images/channels/Dsports_2_1280x720.png" group-title="Canal" ,DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
 
 
 

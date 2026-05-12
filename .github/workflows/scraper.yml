@@ -1,0 +1,34 @@
+name: IPTV Link Scraper
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # Tous les jours à 18h UTC
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+
+    - name: Run scraper script
+      run: python scraper.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add pp.txt
+        git commit -m "Update IPTV link"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,2 +1,3 @@
 #EXTM3U
+#EXTINF:-1,PTIPTV Playlist
 http://iptvviva.online:80/playlist/BarcaReal/iptvvivacom/m3u_plus

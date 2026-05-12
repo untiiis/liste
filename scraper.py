@@ -23,25 +23,28 @@ def recuperer_lien_iptv(url_page):
         print("Aucun lien IPTV trouvé sur la page.")
         return None
 
-def mettre_a_jour_fichier_pp(nom_fichier, nouveau_lien):
+def recuperer_playlist_complete(url_playlist):
     try:
-        with open(nom_fichier, 'r') as f:
-            lignes = f.readlines()
-
-        if len(lignes) < 2:
-            lignes.append(nouveau_lien + '\n')
-        else:
-            lignes[1] = nouveau_lien + '\n'
-
-        with open(nom_fichier, 'w') as f:
-            f.writelines(lignes)
-
-        print(f"Fichier {nom_fichier} mis à jour avec le nouveau lien.")
+        response = requests.get(url_playlist)
+        response.raise_for_status()
+        return response.text
     except Exception as e:
-        print(f"Erreur lors de la mise à jour du fichier : {e}")
+        print(f"Erreur lors de la récupération de la playlist complète : {e}")
+        return None
+
+def ecrire_playlist_dans_fichier(nom_fichier, contenu_playlist):
+    try:
+        with open(nom_fichier, 'w', encoding='utf-8') as f:
+            f.write(contenu_playlist)
+        print(f"Fichier {nom_fichier} mis à jour avec la playlist complète.")
+    except Exception as e:
+        print(f"Erreur lors de l’écriture dans le fichier : {e}")
 
 if __name__ == "__main__":
-    url = "https://ptiptv.com/topic/39-%F0%9F%9A%80-ptiptv-free-iptv-account-%E2%80%93-for-members-only-daily-update/"
-    lien_iptv = recuperer_lien_iptv(url)
+    url_page = "https://ptiptv.com/topic/39-%F0%9F%9A%80-ptiptv-free-iptv-account-%E2%80%93-for-members-only-daily-update/"
+    lien_iptv = recuperer_lien_iptv(url_page)
     if lien_iptv:
-        mettre_a_jour_fichier_pp("pp.txt", lien_iptv)
+        print(f"Lien IPTV trouvé : {lien_iptv}")
+        contenu_playlist = recuperer_playlist_complete(lien_iptv)
+        if contenu_playlist:
+            ecrire_playlist_dans_fichier("pp.txt", contenu_playlist)

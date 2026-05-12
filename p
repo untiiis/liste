@@ -1,0 +1,1 @@
+http://iptvviva.online:80/playlist/BarcaReal/iptvvivacom/m3u_plus

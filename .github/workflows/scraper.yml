@@ -2,7 +2,8 @@ name: IPTV Link Scraper
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # Tous les jours à 18h UTC
+    - cron: '0 10 * * *'  # Tous les jours à 10h UTC
+  workflow_dispatch:
 
 jobs:
   run-scraper:

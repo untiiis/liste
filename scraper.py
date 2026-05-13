@@ -47,4 +47,5 @@ if __name__ == "__main__":
         print(f"Lien IPTV trouvé : {lien_iptv}")
         contenu_playlist = recuperer_playlist_complete(lien_iptv)
         if contenu_playlist:
+            print(f"Contenu playlist récupéré, taille : {len(contenu_playlist)} caractères")
             ecrire_playlist_dans_fichier("pp.txt", contenu_playlist)

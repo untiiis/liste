@@ -41,7 +41,7 @@ def ecrire_playlist_dans_fichier(nom_fichier, contenu_playlist):
         print(f"Erreur lors de l’écriture dans le fichier : {e}")
 
 if __name__ == "__main__":
-    url_page = "https://ptiptv.com/topic/39-%F0%9F%9A%80-ptiptv-free-iptv-account-%E2%80%93-for-members-only-daily-update/"
+    url_page = "https://ptiptv.com/topic/112-🚀-ptiptv-free-educational-iptv-test-playlist-xtream-codes-100-user-🟢/"
     lien_iptv = recuperer_lien_iptv(url_page)
     if lien_iptv:
         print(f"Lien IPTV trouvé : {lien_iptv}")

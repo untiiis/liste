@@ -7,6 +7,10 @@ def recuperer_lien_iptv(url_page):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     response = requests.get(url_page, headers=headers)
+
+    # DEBUG : Afficher le code de retour et le début du texte
+    print(f"Status Code: {response.status_code}")
+    print(f"Début du contenu reçu: {response.text[:500]}") 
     
     if response.status_code != 200:
         print(f"Erreur HTTP : {response.status_code}")
